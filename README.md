@@ -106,6 +106,7 @@ The download and installation process can take a very long time depending on you
 ![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
 
 2. Download FUS from here:
+https://github.com/Kvitekvist/FUS/releases
 
 3. Once the download of the wabbajack file is done, run the file and set the Installation folder the folder you just created. The downloads path should automatically fill in the installation path.
 
@@ -150,6 +151,9 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
+Then you will see this menu:
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential%20files.png?raw=true)
+
 1. You must activate the the "00 Essential Files" option. All others are optional.
 2. "00 3D Audio" ads 3D audio \ surround to SkyrimVR. Really good, but you might get a bit more performance without.
 3. SteamVR - This is on by default.
@@ -159,7 +163,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 ### Choose ENB or Shader
 From MO2, run the ENB \ Reshade program:
 
-![image](https://i.ibb.co/9YSbjZG/enb1.jpg)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/enb.png?raw=true)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
 
@@ -172,7 +176,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
 If any preset was marked as on, then turn them off, then toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
 
-![image](https://i.ibb.co/FH866MN/enb4.jpg)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/enb%20selection.png?raw=true)
 
 
 ## How to start up FUS
