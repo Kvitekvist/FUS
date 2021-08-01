@@ -1,6 +1,6 @@
-# Auriel's Dream
+# FUS
 
-- [Auriel's Dream](#auriel-s-dream)
+- [FUS](#fus)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -17,7 +17,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
    - [Copy Game Folder Files](#copy-game-folder-files)
-  - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
+  - [How to start up FUS](#how-to-start-up-fus)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
@@ -87,7 +87,7 @@ Under the Automatic Updates section, select “Only update the game when I launc
 #### Start Skyrim VR
 
 After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
-Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with Auriel's Dream will find the Skyrim VR folder.
+Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with FUS will find the Skyrim VR folder.
 
 ### Using Wabbajack
 
@@ -105,7 +105,7 @@ The download and installation process can take a very long time depending on you
 1. Open Wabbajack
 ![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
 
-2. Click on Browse Modlists, and download Auriel's Dream from the gallery.
+2. Download FUS from here:
 
 3. Once the download of the wabbajack file is done, run the file and set the Installation folder the folder you just created. The downloads path should automatically fill in the installation path.
 
@@ -157,7 +157,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 5. openvr_fsr - AMD sharpener, not compatible with opencomposite
 
 ### Choose ENB or Shader
-From MO2, run the ENB program:
+From MO2, run the ENB \ Reshade program:
 
 ![image](https://i.ibb.co/9YSbjZG/enb1.jpg)
 
