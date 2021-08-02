@@ -16,12 +16,13 @@
         - [Downloading and Installing](#downloading-and-installing)
         - [FAQ - Problems with Wabbajack](#faq---problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-   - [Copy Game Folder Files](#copy-game-folder-files)
+   - [Activate the Essential Files](#activate-the-essential-files)
+   - [Choose ENB or Reshade](#choose-enb-or-reshade)
   - [How to start up FUS](#how-to-start-up-fus)
   - [Updating](#updating)
-  - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
-  - [Changelog](#changelog)
+- [The full modlist](#the-full-modlist)
+- [Changelog](#changelog)
 
 ## FUS - Fundamentals, Updates, and Stuff
 
@@ -30,7 +31,7 @@ Basic: Including the barebones for a good VR experience.\
 Basic + Visuals: Also includes some visual improvements.\
 Basic + Visuals + Gameplay: Also includes several mods that alter gameplay, both VR spesific and general ones.
 
-This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the basic profile), or by people who want to have an as fast as possible update to get Skyrim VR running with a generally vanilla-lore-friendly overhaul (in that case use the visuals, or the gameplay in addition if you like fun).
+This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the basic profile), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the visuals, or the gameplay in addition if you like fun).
 
 The entire modlist can be found at the bottom of this page.
 
@@ -169,7 +170,7 @@ Then you will see this menu:
 4. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
 5. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
 
-### Choose ENB or Shader
+### Choose ENB or Reshade
 From MO2, run the ENB \ Reshade program:
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/enb.png?raw=true)
@@ -217,14 +218,18 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 **Select the profile of your choice!** 
 
-- The green parts are really the mods that we think no Skyrim VR mod list should be without.\
--The blue parts contain a selection of audio/visual/architecture/armory/NPC overhauls that we think is fine to work as standalone. This is personal preference and just a selection we made and like.\
--The yellow parts are our choice of gameplay improvements/changes. These deviate from vanilla and mostly make the game more interesting and challenging, or just overall improve the feeling. Obviously, these are personal preference, too.\
--The optional LOD files contain DynDoLOD generated files that enhance the visuals in the distance. These cost performance but make a big difference!\
--The red late load parts contain patches that we created for this mod list. Use them if you use the respective mods above. We appreciate an endorsement! :)\
+- The green parts are really the mods that we think no Skyrim VR mod list should be without.
+-The blue parts contain a selection of audio/visual/architecture/armory/NPC overhauls that we think is fine to work as standalone. This is personal preference and just a selection we made and like.
+-The yellow parts are our choice of gameplay improvements/changes. These deviate from vanilla and mostly make the game more interesting and challenging, or just overall improve the feeling. Obviously, these are personal preference, too.
+-The optional LOD files contain DynDoLOD generated files that enhance the visuals in the distance. These cost performance but make a big difference!
+-The red late load parts contain patches that we created for this mod list. Use them if you use the respective mods above. We appreciate an endorsement! :)
 -Surprise: do **NOT TOUCH** the files that are marked as such. 
 
 So, here's the full list:
 
 
 ![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/all%20mods.png)
+
+# Changelog
+
+First release, no changes yet
