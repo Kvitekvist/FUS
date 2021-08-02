@@ -29,7 +29,7 @@
 FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.\
 Basic: Including the barebones for a good VR experience.\
 Basic + Visuals: Also includes some visual improvements.\
-Basic + Visuals + Gameplay: Also includes several mods that alter gameplay, both VR spesific and general ones.
+Basic + Visuals + Gameplay: Also includes several mods that alter gameplay, both VR-specific and general ones.
 
 This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the basic profile), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the visuals, or the gameplay in addition if you like fun).
 
