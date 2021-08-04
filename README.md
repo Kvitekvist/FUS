@@ -265,6 +265,7 @@ So, here's the full list:
 - Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
 - I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
 - Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
+- My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Well time to start over. DO NOT RUN LOOT!
 
 # Changelog
 
