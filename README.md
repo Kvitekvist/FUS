@@ -18,19 +18,20 @@
   - [Post-Installation](#post-installation)
    - [Activate the Essential Files](#activate-the-essential-files)
    - [Choose ENB or Reshade](#choose-enb-or-reshade)
-  - [How to start up FUS](#how-to-start-up-fus)
   - [Updating](#updating)
   - [Removing the Modlist](#removing-the-modlist)
-  - [FAQ](#faq)
+- [How to start up FUS](#how-to-start-up-fus)
 - [The full modlist](#the-full-modlist)
+- [FAQ](#faq)
 - [Changelog](#changelog)
 
 ## FUS - Fundamentals, Updates, and Stuff
 
 FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.\
-Basic: Including the barebones for a good VR experience.\
-Basic + Visuals: Also includes some visual improvements.\
-Basic + Visuals + Gameplay: Also includes several mods that alter gameplay, both VR-specific and general ones.
+
+FUS (Basic): Including the barebones for a good VR experience.\
+FUS RO (Basic + Visuals): Also includes some visual improvements.\
+FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
 
 This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the basic profile), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the visuals, or the gameplay in addition if you like fun).
 
@@ -191,16 +192,12 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 Now here, you can choose from a list of different ENB/Reshade profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
 If any preset was marked as on, then turn them off, then turn on the selection of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
 
-The best option for low performance impact but high visual gainsincluding a sharp image is the VRVision reshade option.
+The best option for low performance impact but high visual gains including a sharp image is the **VRVision** reshade option. 
+
+**IMPORTANT:** If you want to use the Sensorium ENB you need to change the ini file of the AW_Cangar patch and set the tonemapper to 0. Probably also a good idea for the other ENBs although they don't explicitly demand it. Don't forget to switch it back on when choosing a Reshade again.
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/enb%20selection.png?raw=true)
 
-
-## How to start up FUS
-
-Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button.
-
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/launch.png?raw=true)
 
 ## Updating
 
@@ -219,15 +216,28 @@ Again, **do check the description/changelog of the update** to get the necessary
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
 
-### FAQ
+# How to start up FUS
 
-- The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off.
-- Why is my performance so bad? -> Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a post-process sharpener like VR Vision Reshade.
-- You use 3D trees plus Mirkvior? -> We are only using the plants from 3D trees.
-- Doesn't Cathedral Landscape already include Blended Road? -> There are some meshes missing from Cathedral Landscape that are included in blended roads.
-- Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
-- I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
-- Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
+Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button. 
+
+**This has to be done each time you want to play Skyrim VR!** 
+
+You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the "Run" button :)
+
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/launch.png?raw=true)
+
+## Ingame Settings
+
+First of all, we highly recommend not using any supersampling, neither in Steam/Oculus, nor ingame. Set everything to 100%. Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. 
+
+Then start with the game settings:
+- Disable Dynamic Resolution
+- Disable Foliage Shadows
+- Disable Comfort Mode (black dynamic frame appearing when you move) if you think you don’t need it
+- Again, supersampling slider to min (all the way left)
+- Untick “Disable LOD” options and set the Tree Lod slider to max
+- Distance sliders are set to: Item 20%, Actor 20%, Objects 40 %, Grass 100 % (or lower if you have framerate issues)
+- Activate to your liking “Realistic Archery” and "Realistic Swimming"
 
 
 # The full modlist
@@ -245,6 +255,16 @@ So, here's the full list:
 
 
 ![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/all%20mods.png)
+
+# FAQ
+
+- The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off.
+- Why is my performance so bad? -> Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a post-process sharpener like VR Vision Reshade.
+- You use 3D trees plus Mirkvior? -> We are only using the plants from 3D trees.
+- Doesn't Cathedral Landscape already include Blended Road? -> There are some meshes missing from Cathedral Landscape that are included in blended roads.
+- Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
+- I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
+- Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
 
 # Changelog
 
