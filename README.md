@@ -21,6 +21,7 @@
   - [How to start up FUS](#how-to-start-up-fus)
   - [Updating](#updating)
   - [Removing the Modlist](#removing-the-modlist)
+  - [FAQ](#faq)
 - [The full modlist](#the-full-modlist)
 - [Changelog](#changelog)
 
@@ -34,6 +35,8 @@ Basic + Visuals + Gameplay: Also includes several mods that alter gameplay, both
 This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the basic profile), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the visuals, or the gameplay in addition if you like fun).
 
 The entire modlist can be found at the bottom of this page.
+
+This Readme is work in progress at the moment! If you have comments, send a message to u/Cangar on reddit.
 
 ## Installation
 
@@ -147,6 +150,8 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Activate the Essential Files
 
+DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
+
 First, run the program named Essentials Files from Mod Organizer 2.
 This step will add the required files for SKSE, Engine Fixes, DLL loader and other essential files that cannot be handled by MO2.
 
@@ -213,6 +218,17 @@ Again, **do check the description/changelog of the update** to get the necessary
 ### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
+
+### FAQ
+
+- The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off.
+- Why is my performance so bad? -> Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a post-process sharpener like VR Vision Reshade.
+- You use 3D trees plus Mirkvior? -> We are only using the plants from 3D trees.
+- Doesn't Cathedral Landscape already include Blended Road? -> There are some meshes missing from Cathedral Landscape that are included in blended roads.
+- Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
+- I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
+- Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
+
 
 # The full modlist
 
