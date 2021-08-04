@@ -193,9 +193,9 @@ The best option for low performance impact but high visual gainsincluding a shar
 
 ## How to start up FUS
 
-Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "SKSE" by selecting it in the dropdown box and then hitting the "Run" button.
+Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button.
 
-![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/launch.png?raw=true)
 
 ## Updating
 
