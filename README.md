@@ -244,7 +244,7 @@ Then start with the game settings:
 So, here's the full list:
 
 
-![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/all%20mods.png)
+![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/all%20mods2.png)
 
 # FAQ
 
