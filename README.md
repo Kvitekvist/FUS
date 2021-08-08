@@ -181,6 +181,8 @@ So, here's the full list:
 
 ## Version 1.0.2
 
+New save required!
+
 ### Mods added
 
 + Populated Forts Towers Places Remastered Edition
