@@ -87,15 +87,6 @@ Open Steam and ensure that Skyrimis uninstalled through on it.
 Reinstall Skyrim VR from Steam.
 Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
 
-#### Creation Club Updating Protection
-
-Every time the Creation Club releases new content SKSEVR breaks. A fixed version of SKSEVR usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
-Open your Steam Library
-Find The Elder Scrolls V: Skyrim VR and open the properties
-Click Properties
-Click the Updates tab
-Under the Automatic Updates section, select “Only update the game when I launch it”
-
 #### Start Skyrim VR
 
 After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
