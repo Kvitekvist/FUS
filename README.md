@@ -41,7 +41,7 @@ This Readme is work in progress at the moment! If you have comments, send a mess
 ## Installation
 
 This may look like a good amount of work but the process is fast and you just need to follow the steps :)\
-Do not despair! Don't run away! If you feel like anything is unclear please drop a message to u/Cangar on reddit. I will do my best to clear things up and add the clarification for the next user.
+Do not despair! Don't run away! If you feel like anything is unclear please drop a message to [Cangar](https://www.reddit.com/user/Cangar). I will do my best to clear things up and add the clarification for the next user.
 
 ### First time installation, PC preparation
 
