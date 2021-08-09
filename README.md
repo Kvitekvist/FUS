@@ -179,6 +179,13 @@ So, here's the full list:
 
 # Changelog
 
+## Version 1.0.3
+
+HOTFIX!
+
+### Fixes
++ Replaced Strange runes for LE with the correct VR version
+
 ## Version 1.0.2
 
 New save required!
