@@ -174,7 +174,7 @@ So, here's the full list:
 - Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
 - My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the "restore" button to restore the intended load order for your profile.
 - Some tools like LOOT and DynDoLOD are missing! -> We have decided not to include most of the tools we use when developing the modlist. This is not because we don't want to share how we do things, in fact you can read all the settings in this readme. We have excluded the tools because if a tool is updated the list may go down which is a typical DynDoLOD issue. LOOT is removed because running it will break the modlist. 
-- I added / changed some mods. What are your settings for DynDoLOD and Synthesis? -> You can find them in the "images" folder.
+- I added / changed some mods. What are your settings for DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/LOD-Settings).
 
 # Changelog
 
