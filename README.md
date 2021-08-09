@@ -36,7 +36,7 @@ This modlist is meant to be used by people who either want to start their own to
 
 The entire modlist can be found at the bottom of this page.
 
-This Readme is work in progress at the moment! If you have comments, send a message to u/Cangar on reddit.
+This Readme is work in progress at the moment! If you have comments, send a message to [Cangar](https://www.reddit.com/user/Cangar).
 
 ## Installation
 
