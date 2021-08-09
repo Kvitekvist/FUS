@@ -131,7 +131,7 @@ Head over to the installation folder and locate an executable named "ModOrganize
 
 You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the "Run" button :)
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/launch.png?raw=true)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
 ## Ingame Settings
 
