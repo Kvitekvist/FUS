@@ -8,11 +8,11 @@
     - [Activate the essential files](#activate-the-essential-files)
     - [Choose ENB or Reshade](#choose-enb-or-reshade)
     - [Select the profile of your choice](#select-the-profile-of-your-choice)
-  - [Updating FUS](#updating-fus)
-    - [Removing FUS](#removing-fus)
 - [How to start up FUS](#how-to-start-up-fus)
 - [The full modlist](#the-full-modlist)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
+- [Updating FUS](#updating-fus)
+  - [Removing FUS](#removing-fus)
 - [Changelog](#changelog)
 
 ## FUS - Fundamentals, Updates, and Stuff
@@ -80,23 +80,6 @@ Mod authors appreciate an endorsement! :)
 
 Surprise: **DO NOT TOUCH** the files that are marked as such. 
 
-## Updating FUS
-
-If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-Again, **do check the description/changelog of the update** to get the necessary info.
-
-
-### Removing FUS
-
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
-
 # How to start up FUS
 
 Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button. 
@@ -106,7 +89,6 @@ Head over to the installation folder and locate an executable named "ModOrganize
 You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the "Run" button :)
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
-
 
 # The full modlist
 
@@ -124,6 +106,23 @@ The complete mod list and our comments on them can be found [here](https://githu
 - My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the "restore" button to restore the intended load order for your profile.
 - Some tools like LOOT and DynDoLOD are missing! -> We have decided not to include most of the tools we use when developing the modlist. This is not because we don't want to share how we do things, in fact you can read all the settings in this readme. We have excluded the tools because if a tool is updated the list may go down which is a typical DynDoLOD issue. LOOT is removed because running it will break the modlist. 
 - I added / changed some mods. What are your settings for DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/LOD-Settings).
+
+# Updating FUS
+
+If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+Again, **do check the description/changelog of the update** to get the necessary info.
+
+
+## Removing FUS
+
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
 
 # Changelog
 
