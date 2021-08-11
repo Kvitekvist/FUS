@@ -27,11 +27,15 @@ This modlist is meant to be used by people who either want to start their own to
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
-This Readme is work in progress at the moment! If you have comments, send a message to [Cangar](https://www.reddit.com/user/Cangar).
+--------
+
+[Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
+
+--------
 
 ## Installation
 
-This may look like a good amount of work but the process is fast and you just need to follow the steps :) Do not despair! Don't run away! If you feel like anything is unclear please drop a message to [Cangar](https://www.reddit.com/user/Cangar). I will do my best to clear things up and add the clarification for the next user.
+This may look like a good amount of work but the process is fast and you just need to follow the steps :) Do not despair! Don't run away! If you feel like anything is unclear please [join the discord](https://discord.gg/Kv6MdXY3fB) and let us know! We will do our best to clear things up and add the clarification for the next user.
 
 ### First time installation, PC preparation
 
