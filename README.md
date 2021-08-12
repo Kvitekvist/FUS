@@ -27,6 +27,8 @@ This modlist is meant to be used by people who either want to start their own to
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
+You need about 60gb free disk space.
+
 --------
 
 [Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
