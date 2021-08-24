@@ -55,7 +55,7 @@ If you run into any issues see the [wabbajack troubleshooting page](https://gith
 
 You need to open MO2 ("ModOrganizer.exe") from within the FUS folder. If you had a different MO2 installed previously, do not use that one.
 
-DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
+DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the ["restore" button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png).
 
 ### Activate the essential files
 
