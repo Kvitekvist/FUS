@@ -49,7 +49,7 @@ Follow all steps on [this page](https://github.com/Kvitekvist/FUS/wiki/Prepare-P
 
 The installation process of the FUS list is straightforward and described [here](https://github.com/Kvitekvist/FUS/wiki/Download-and-Installing-the-FUS-modlist).
 
-If you run into any issues see the the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Problems-with-Wabbajack). If the installation is successful, proceed to [Post-Installation](#post-installation).
+If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Problems-with-Wabbajack). If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 ## Post-installation
 
