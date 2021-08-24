@@ -53,6 +53,8 @@ If you run into any issues see the [wabbajack troubleshooting page](https://gith
 
 ## Post-installation
 
+You need to open MO2 ("ModOrganizer.exe") from within the FUS folder.
+
 DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
 
 ### Activate the essential files
@@ -88,7 +90,7 @@ Surprise: **DO NOT TOUCH** the files that are marked as such.
 
 # How to start up FUS
 
-Head over to the installation folder and locate an executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button. 
+Head over to the installation folder and locate the executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button. 
 
 **This has to be done each time you want to play Skyrim VR!** 
 
