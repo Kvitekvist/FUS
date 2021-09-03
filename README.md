@@ -1,21 +1,4 @@
-# FUS
-
-- [FUS](#fus---fundamentals-updates-and-stuff)
-  - [Installation](#installation)
-    - [First time installation, PC preparation](#first-time-installation-pc-preparation)
-    - [Download and installation of the FUS modlist](#download-and-installation-of-the-fus-modlist)
-  - [Post-installation](#post-installation)
-    - [Activate the essential files](#activate-the-essential-files)
-    - [Choose ENB or Reshade](#choose-enb-or-reshade)
-    - [Select the profile of your choice](#select-the-profile-of-your-choice)
-- [How to start up FUS](#how-to-start-up-fus)
-- [The full modlist](#the-full-modlist)
-- [FAQ and troubleshooting](#faq-and-troubleshooting)
-- [Updating FUS](#updating-fus)
-  - [Removing FUS](#removing-fus)
-- [Changelog](#changelog)
-
-## FUS - Fundamentals, Updates, and Stuff
+# FUS - Fundamentals, Updates, and Stuff
 
 FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.
 
@@ -23,7 +6,7 @@ FUS (Basic): Including the barebones for a good VR experience.\
 FUS RO (Basic + Visuals): Also includes some visual improvements.\
 FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
 
-This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the FUS - green basics), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the FUS RO - blue visuals - or the FUS RO DAH - yellow gameplay - profiles in addition if you like fun). Taken together in this list, only the FUS profile is meant to be essential. The rest is what we find to be a nice minimalistic setup that users can either just use or butcher at their taste ;)
+This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the FUS - green basics), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the FUS RO - blue visuals - or the FUS RO DAH - yellow gameplay - profiles in addition if you like fun). So in this list, only the FUS profile is meant to be absolutely essential. The rest is what we find to be a nice minimalistic setup that users can either just use or butcher at their taste and level of competence ;)
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
@@ -31,21 +14,38 @@ You need about 60gb free disk space.
 
 --------
 
+- [FUS](#fus---fundamentals-updates-and-stuff)
+- [Installation](#installation)
+  - [First time installation, PC preparation](#first-time-installation-pc-preparation)
+  - [Download and installation of the FUS modlist](#download-and-installation-of-the-fus-modlist)
+  - [Post-installation](#post-installation)
+    - [Activate the essential files](#activate-the-essential-files)
+    - [Choose ENB or Reshade](#choose-enb-or-reshade)
+  - [Select the profile of your choice](#select-the-profile-of-your-choice)
+- [How to start up FUS](#how-to-start-up-fus)
+- [The full modlist](#the-full-modlist)
+- [FAQ and troubleshooting](#faq-and-troubleshooting)
+- [Updating FUS](#updating-fus)
+  - [Removing FUS](#removing-fus)
+- [Changelog](#changelog)
+
+--------
+
 [Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
 
 --------
 
-## Installation
+# Installation
 
 This may look like a good amount of work but the process is fast and you just need to follow the steps :) Do not despair! Don't run away! If you feel like anything is unclear please [join the discord](https://discord.gg/Kv6MdXY3fB) and let us know! We will do our best to clear things up and add the clarification for the next user.
 
-### First time installation, PC preparation
+## First time installation, PC preparation
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating)!
 
 Follow all steps on [this page](https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist) to prepare your PC to install FUS. This includes requirements, cleaning Skyrim, and installing Wabbajack.
 
-### Download and installation of the FUS modlist
+## Download and installation of the FUS modlist
 
 The installation process of the FUS list is straightforward and described [here](https://github.com/Kvitekvist/FUS/wiki/Download-and-Installation-of-the-FUS-modlist).
 
@@ -69,7 +69,7 @@ First of all, we highly recommend not using any supersampling, neither in Steam/
 
 All ENB or Reshade options we provide include a sharpener which is meant to be used in combination with temporal ani-aliasing (TAA) switched on ingame.
 
-### Select the profile of your choice
+## Select the profile of your choice
 
 FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.
 
@@ -106,16 +106,27 @@ The complete mod list and our comments on them can be found [here](https://githu
 
 # FAQ and troubleshooting
 
-- The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off.
-- Why is my performance so bad? -> Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a post-process sharpener like VR Vision Reshade.
-- You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
-- Doesn't Cathedral Landscape already include Blended Road? -> There are some meshes missing from Cathedral Landscape that are included in blended roads.
-- Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
-- I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
-- Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
-- My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the ["restore" button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) to restore the intended load order for your profile.
-- Some tools like LOOT and DynDoLOD are missing! -> We have decided not to include most of the tools we use when developing the modlist. This is not because we don't want to share how we do things, in fact you can read all the settings in this readme. We have excluded the tools because if a tool is updated the list may go down which is a typical DynDoLOD issue. LOOT is removed because running it will break the modlist. 
-- I added / changed some mods. What are your settings for DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)).
+* The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
+
+* Why is my performance so bad? -> Try lowering the settings in the "VR Performance" ingame menu. Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a low performance impact post-process sharpener like VR Vision Reshade (in the ENB/Reshade manager). Potentially disable the "luma sharpener" in VR Vision using the ingame overlay to save additional performance.
+
+* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the ["restore" button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in MO2 to restore the intended load order for your profile.
+
+
+* You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
+
+* Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
+
+* I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
+
+* Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix. -> Yes, unbound is merged into the list.
+
+* I see some patches that are disabled, or I miss a patch entirely that should be there. -> All patches that are in the list, even when disabled, are merged into the conflict resolution patch. Very likely there is everything you need, but if you think a really important patch is entirely missing, tell us. 
+
+* The LOOT tool missing! -> LOOT is removed because running it will break the modlist.
+
+* I added / changed some mods. What are your settings for rerunning DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)).
+
 
 # Updating FUS
 
