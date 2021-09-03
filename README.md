@@ -53,9 +53,9 @@ If you run into any issues see the [wabbajack troubleshooting page](https://gith
 
 ## Post-installation
 
-You need to open MO2 ("ModOrganizer.exe") from within the FUS folder. If you had a different MO2 installed previously, do not use that one.
+You need to open MO2 `ModOrganizer.exe` from within the FUS folder. If you had a different MO2 installed previously, do not use that one.
 
-DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the ["restore" button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png).
+DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png).
 
 ### Activate the essential files
 
@@ -90,11 +90,11 @@ Surprise: **DO NOT TOUCH** the files that are marked as such.
 
 # How to start up FUS
 
-Head over to the installation folder and locate the executable named "ModOrganizer.exe" and launch it. Once its launched there will be a dropdown box on the top right and a big "Run" button next to it. Ensure it is set to "Play SkyrimVR" by selecting it in the dropdown box and then hitting the "Run" button. 
+Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button. 
 
 **This has to be done each time you want to play Skyrim VR!** 
 
-You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the "Run" button :)
+You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the `Run` button :)
 
 **IMPORTANT:** Skyrim VR is very particular about controllers. Make absoutely sure Steam VR and your controllers are switched on *before* starting the game!
 
@@ -108,9 +108,9 @@ The complete mod list and our comments on them can be found [here](https://githu
 
 * The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
 
-* Why is my performance so bad? -> Try lowering the settings in the "VR Performance" ingame menu. Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a low performance impact post-process sharpener like VR Vision Reshade (in the ENB/Reshade manager). Potentially disable the "luma sharpener" in VR Vision using the ingame overlay to save additional performance.
+* Why is my performance so bad? -> Try lowering the settings in the `VR Performance` ingame menu. Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a low performance impact post-process sharpener like VR Vision Reshade (in the ENB/Reshade manager). Potentially disable the `luma sharpener` in VR Vision using the ingame overlay to save additional performance.
 
-* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the ["restore" button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in MO2 to restore the intended load order for your profile.
+* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in MO2 to restore the intended load order for your profile.
 
 
 * You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
