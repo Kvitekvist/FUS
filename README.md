@@ -12,6 +12,8 @@ The entire modlist can be found at the bottom of this page. Mod authors apprecia
 
 You need about 60gb free disk space.
 
+FUS does not support pirated versions of the game. Do not attempt to install it if you did not buy the game legally, it will not work. Do not come asking for help.
+
 --------
 
 - [FUS](#fus---fundamentals-updates-and-stuff)
