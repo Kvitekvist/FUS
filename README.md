@@ -10,7 +10,7 @@ This modlist is meant to be used by people who either want to start their own to
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
-You need about 60gb free disk space.
+You need about 45gb free disk space.
 
 FUS does not support pirated versions of the game. Do not attempt to install it if you did not buy the game legally, it will not work. Do not come asking for help.
 
