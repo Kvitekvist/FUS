@@ -39,7 +39,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
 - [How to start up FUS](#how-to-start-up-fus)
 - [The full modlist](#the-full-modlist)
-- [Performance tweaking](#performance-tweaking)
+- [Performance adjustment](#performance-adjustment)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
 - [Updating FUS](#updating-fus)
   - [Removing FUS](#removing-fus)
@@ -121,17 +121,17 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 
 The complete mod list and our comments on them can be found [here](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
 
-# Performance tweaking
+# Performance adjustment
 
 In general, FUS default performance should be good. Depending on your system, you might need to adjust it to improve it, or you might have enough headroom to crank up some settings.
 
-We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-tweaking) on how to understand and adjust your ingame performance.
+We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-adjustment) on how to understand and adjust your ingame performance.
 
 # FAQ and troubleshooting
 
 * The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
 
-* Why is my performance so bad? -> See [above](#performance-tweaking).
+* Why is my performance so bad? -> See [above](#performance-adjustment).
 
 * My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in the plugins section (right) of MO2 to restore the intended load order for your profile.
 
