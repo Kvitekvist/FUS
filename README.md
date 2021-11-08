@@ -38,7 +38,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
     - [Choose ENB or Reshade](#choose-enb-or-reshade)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
 - [How to start up FUS](#how-to-start-up-fus)
-- [The full modlist](#the-full-modlist)
+- [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
 - [Performance adjustment](#performance-adjustment)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
 - [Updating FUS](#updating-fus)
@@ -117,9 +117,11 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
-# The full modlist
+# What's in the box?! The modlist
 
-The complete mod list and our comments on them can be found [here](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
+We ship all the little bits and pieces that fix things, improve the basic quality of life, and naturally we include all the cool VR specific mods that bring the game to the level of a modern VR game. Most notably that is VRIK giving you a body, HIGGS VR giving you gravity gloves and weapon physics collitions (not with enemy weapons unfortunately), Spell Wheel VR giving you a spell and other stuff selection wheel like Blade and Sorcery, Weapon Throw VR to - well - throw your weapons, and many more! But also other necessities like USSEP, SkyUI VR, True 3D sound, Engine Fixes VR, SkyVRaan (enabling fake water reflections). And lastly we have a basic selection for overhauls of trees, architecture, weather, lighting, characters, objects, weapons, armors. We also ship all major ENB or Reshade presets that are very easy for you to enable or disable with a click instead of manual copy action.
+
+The complete mod list and our comments on the important ones can be found [here](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
 
 # Performance adjustment
 
