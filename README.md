@@ -70,7 +70,7 @@ If you run into any issues see the [wabbajack troubleshooting page](https://gith
 
 You need to open MO2 `ModOrganizer.exe` from within the FUS folder. If you had a different MO2 installed previously, do not use that one.
 
-DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png).
+DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png). Such a button exists for the mod order as well as the plugins order.
 
 ### Activate the essential files
 
@@ -126,7 +126,7 @@ The complete mod list and our comments on them can be found [here](https://githu
 
 * Why is my performance so bad? -> Try lowering the settings in the `VR Performance` ingame menu. Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a low performance impact post-process sharpener like VR Vision Reshade (in the ENB/Reshade manager). Potentially disable the `luma sharpener` in VR Vision using the ingame overlay to save additional performance.
 
-* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in MO2 to restore the intended load order for your profile.
+* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in the plugins section (right) of MO2 to restore the intended load order for your profile.
 
 
 * You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
