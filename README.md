@@ -1,12 +1,25 @@
 # FUS - Fundamentals, Updates, and Stuff
 
-FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.
+FUS is a fundamental modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 4 profiles:
 
-FUS (Basic): Including the barebones for a good VR experience.\
-FUS RO (Basic + Visuals): Also includes some visual improvements.\
-FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
+- FUS (Basic): Including the barebones for a good VR experience.
+- FUS RO (Basic + Visuals): Also includes some visual improvements.
+- FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
+- Cangar: Basically FUS RO DAH with my personal choice of optional mods.
 
-This modlist is meant to be used by people who either want to start their own totally personal modlist but dont want to bother with the basic stuff (in that case use the FUS - green basics), or by people who want to have an as fast as possible mod list installation to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the FUS RO - blue visuals - or the FUS RO DAH - yellow gameplay - profiles in addition if you like fun). So in this list, only the FUS profile is meant to be absolutely essential. The rest is what we find to be a nice minimalistic setup that users can either just use or butcher at their taste and level of competence ;)
+--------
+
+[Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
+
+--------
+
+Unlike most wabbajack modlist, FUS is very modular. It is meant to be used by people who either want to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the FUS RO - blue visuals - or the FUS RO DAH - yellow gameplay, if you like fun - profiles), or by people who want to start their own totally personal modlist but don't want to bother with the basic stuff (in that case use the FUS - green basics, the actual essentials for Skyrim VR).
+
+So in this list, only the FUS profile is meant to be absolutely essential. The rest is what we personally find to be a nice minimalistic setup that users can either just use or butcher at their taste and level of competence ;)
+
+The list is made to be extremely performant while retaining a maximal level of visual quality, and we provide different setups of quality vs performance within the list. Cangar can play it on a laptop with a mobile 1070 with a Valve Index, but you can also make use of a 3080 in a desktop PC, depending on the setup you choose.
+
+I would like to point out the fourth profile: "Cangar", which is going to be the exact profile I use for my own playthrough. When I play, I will make it a new Youtube video series on my channel and all my save game files will be made available here on Git. This means you can decide to either just watch me play, or you can literally replay parts yourselves with the exact same setup! 
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
@@ -73,11 +86,12 @@ All ENB or Reshade options we provide include a sharpener which is meant to be u
 
 ## Select the profile of your choice
 
-FUS is a fundamental modlist for Skyrim VR that offers 3 profiles.
+FUS is a fundamental modlist for Skyrim VR that offers 4 profiles.
 
 + FUS (Basic): Including the barebones for a good VR experience.
 + FUS RO (Basic + Visuals): Also includes some appearance improvements.
 + FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
++ Cangar: FUS RO DAH with my choice of optionals (almost all). Choose this if you want to follow and replay my Youtube series.
 
 Of course you can also select your own choices from the profiles.
 The green parts are really the mods that we think no Skyrim VR mod list should be without.
@@ -138,15 +152,17 @@ If this Modlist receives an update please check the changelog before doing anyth
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+You can prevent this deletion by manually renaming the mod to include the "[NoDelete] " flag (inlcuding the space!), e.g. if you installed "OBIS", it then needs to be renamed to "[NoDelete] OBIS" and it will not be removed during updating. You will still have to adjust the load order again after updating!
+
+Other than this, updating is like installing. You only have to make sure that you select the same path and tick the `overwrite` button.
 
 Again, **do check the description/changelog of the update** to get the necessary info.
 
 
 ## Removing FUS
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to remove them with the tool they were installed with (see [activate essential files](https://github.com/Kvitekvist/FUS/wiki/Activate-the-Essential-Files)), or if you want to be absolutely sure, just do a clean install of Skyrim VR again (see [clean Skyrim](https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist#clean-skyrim)).
 
 # Changelog
 
-You can find all changes of each version in the [changelog](https://github.com/Kvitekvist/FUS/wiki/Changelog). The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
+You can find all changes of each version on the [release page](https://github.com/Kvitekvist/FUS/releases)!
