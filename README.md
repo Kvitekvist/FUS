@@ -39,6 +39,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
 - [How to start up FUS](#how-to-start-up-fus)
 - [The full modlist](#the-full-modlist)
+- [Performance tweaking](#performance-tweaking)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
 - [Updating FUS](#updating-fus)
   - [Removing FUS](#removing-fus)
@@ -120,14 +121,19 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 
 The complete mod list and our comments on them can be found [here](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
 
+# Performance tweaking
+
+In general, FUS default performance should be good. Depending on your system, you might need to adjust it to improve it, or you might have enough headroom to crank up some settings.
+
+We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-tweaking) on how to understand and adjust your ingame performance.
+
 # FAQ and troubleshooting
 
 * The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
 
-* Why is my performance so bad? -> Try lowering the settings in the `VR Performance` ingame menu. Don't use supersampling. Just set render resolution to 100%, have TAA on ingame, dynamic resolution off, no supersampling ingame, and use a low performance impact post-process sharpener like VR Vision Reshade (in the ENB/Reshade manager). Potentially disable the `luma sharpener` in VR Vision using the ingame overlay to save additional performance.
+* Why is my performance so bad? -> See [above](#performance-tweaking).
 
 * My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in the plugins section (right) of MO2 to restore the intended load order for your profile.
-
 
 * You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
 
