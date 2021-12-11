@@ -36,6 +36,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Post-installation](#post-installation)
     - [Activate the essential files](#activate-the-essential-files)
     - [Choose ENB or Reshade](#choose-enb-or-reshade)
+    - [Choose controller options](#choose-controller-options)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
 - [How to start up FUS](#how-to-start-up-fus)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
@@ -84,6 +85,12 @@ First of all, we highly recommend not using any supersampling, neither in Steam/
 [Here](https://github.com/Kvitekvist/FUS/wiki/Choose-ENB-or-Reshade) we explain how you can choose and switch different pre-installed ENBs and Reshade presets easily. No need to install manually! :)
 
 All ENB or Reshade options we provide include a sharpener which is meant to be used in combination with temporal ani-aliasing (TAA) switched on ingame.
+
+### Choose controller options
+
+Lastly, in MO2 in category `1.7 - Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). In that case you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
+
+In [this guide](https://docs.google.com/document/d/15OU6kbtt-jNQ8sL8d-URMuNa-r1-kKJbJHt0dHE-VpU) I explain the controller mappings in more detail so you can change to whatever you wish if you want.
 
 ## Select the profile of your choice
 
