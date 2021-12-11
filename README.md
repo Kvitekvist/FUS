@@ -39,6 +39,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
     - [Choose controller options](#choose-controller-options)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
 - [How to start up FUS](#how-to-start-up-fus)
+  - [First steps in the game](#first-steps-in-the-game)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
 - [Performance adjustment](#performance-adjustment)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
@@ -123,6 +124,10 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 **IMPORTANT:** Skyrim VR is very particular about controllers. Make absoutely sure Steam VR and your controllers are switched on *before* starting the game!
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
+
+## First steps in the game
+
+When starting the game with FUS you will find yourself in the Realm of Lorkhan, not in the standard intro of Skyrim. Realm of Lorkhan replaces the intro and adds some variety to starting a character (see the [RoL mod page](https://www.nexusmods.com/skyrimspecialedition/mods/18223) for details). You teleport into the world using the crystals, but beware, it is one-way! The intro is very bugged in VR. We recommend you just watch the [intro on YouTube](https://youtu.be/vsRA5BG3N8E?t=61), and then start a new character. Or start Skyrim from Steam, play the intro, then once you leave Helgen, quit the game and start a new game with FUS and pretend its the old one. But don't try to run the intro with the modded game. Its just more stable this way.
 
 # What's in the box?! The modlist
 
