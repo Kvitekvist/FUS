@@ -1,6 +1,6 @@
 # FUS - Fundamentals, Updates, and Stuff
 
-FUS is a fundamental modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 4 profiles:
+FUS is a fundamental and modular modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 4 profiles:
 
 - FUS (Basic): Including the barebones for a good VR experience.
 - FUS RO (Basic + Visuals): Also includes some visual improvements.
