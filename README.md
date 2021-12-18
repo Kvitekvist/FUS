@@ -43,7 +43,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [First steps in the game](#first-steps-in-the-game)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
 - [Performance adjustment](#performance-adjustment)
-- [FAQ and troubleshooting](#faq-and-troubleshooting)
+- [FAQ](#faq)
 - [Updating FUS](#updating-fus)
   - [Removing FUS](#removing-fus)
 - [Changelog](#changelog)
@@ -150,17 +150,13 @@ In general, FUS default performance should be good. Depending on your system, yo
 
 We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-adjustment) on how to understand and adjust your ingame performance.
 
-# FAQ and troubleshooting
+# FAQ
 
 * The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
 
 * Why is my performance so bad? -> See [above](#performance-adjustment).
 
-* My game is broken, interiors are too dark! -> You probably ran LOOT, didn't you? Press the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png) in the plugins section (right) of MO2 to restore the intended load order for your profile.
-
-* You use 3D trees plus Myrkvior? -> We are only using the plants from 3D trees.
-
-* Is XLodGen essential? I always only did TexGen then Dyndolod. -> Not essential, but you generate terrain LOD with xLODGen, tree and object LOD with DynDOLOD.
+* You use 3D trees plus Happy Little Trees? -> We are only using the plants from 3D trees.
 
 * I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch. -> USSEP thing is baked into cleaned master mod.
 
