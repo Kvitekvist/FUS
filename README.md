@@ -38,6 +38,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
     - [Choose ENB or Reshade](#choose-enb-or-reshade)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
     - [Choose controller options](#choose-controller-options)
+    - [VR FPS Stabilizer](#vr-fps-stabilizer)
     - [Other](#other)
 - [How to start up FUS](#how-to-start-up-fus)
   - [First steps in the game](#first-steps-in-the-game)
@@ -110,9 +111,15 @@ Surprise: **DO NOT TOUCH** the files that are marked as such.
 
 ### Choose controller options
 
-In MO2 in category `1.7 - Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). In that case you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
+In MO2 in category `Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). "Rift" in this case means "Oculus/Meta", so if you use a Quest or Quest 2, best also use that mod. In that case you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
 
 In [this guide](https://docs.google.com/document/d/15OU6kbtt-jNQ8sL8d-URMuNa-r1-kKJbJHt0dHE-VpU) I explain the controller mappings in more detail so you can change to whatever you wish if you want.
+
+### VR FPS Stabilizer
+
+This mod has a separate category. I smoothes your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
+
+IMPORTANT: This mod does not work when OpenComposite is used! However, the performance boost of OpenComposite is still the better choice.
 
 ### Other
 
@@ -120,7 +127,7 @@ One additional thing you might want to change is `Auto Sneak and Jump`, this mod
 
 # How to start up FUS
 
-Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button. 
+Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. If you already had MO2 installed, you cannot use your own MO2 version, you have to use the one provided by FUS. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button. 
 
 **This has to be done each time you want to play Skyrim VR!** 
 
@@ -151,6 +158,8 @@ In general, FUS default performance should be good. Depending on your system, yo
 We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-adjustment) on how to understand and adjust your ingame performance.
 
 # FAQ
+
+* I want to play seated but then I constantly sneak, changing the settings does nothing! -> Yes, we have a mod overriding that. If you want to play seated, disable `Auto Sneak and Jump` in the green section. This is safe to do in an existing save.
 
 * The game is really blurry. -> Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
 
