@@ -43,6 +43,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
 - [How to start up FUS](#how-to-start-up-fus)
   - [First steps in the game](#first-steps-in-the-game)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
+  - [Noteworthy gameplay mods](#noteworthy-gameplay-mods) 
 - [Performance adjustment](#performance-adjustment)
 - [FAQ](#faq)
 - [Updating FUS](#updating-fus)
@@ -159,7 +160,53 @@ We also ship all major ENB or Reshade presets that are very easy for you to enab
 
 We do not feature quest additions, nor added regions or dungeons. However, the list is extremely lightweight and compatibility should not be much of a problem, so you can add them yourself if you like.
 
-If you want to read more details, check out our [complete mod list and our comments on the important mods](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
+Here you can check out our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
+
+## Noteworthy gameplay mods
+
+All `VR Gameplay Mods` are important, and you should also check out the `Optional VR Gameplay Mods` and the `Gameplay Overhauls` in addition and select your choices. Definitely check out the mod pages for details about the mods! In this section we don't discuss visual mods (blue section) since these do not alter gameplay, but you can check them out in our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
+
+### VR Gameplay Mods
+
+Green section
+
+* [HIGGS](https://www.nexusmods.com/skyrimspecialedition/mods/43930/) - Hand collision, object grabbing, and gravity gloves-style mechanics for Skyrim VR, all-around must-have mod! I show some of its features in [this video](https://youtu.be/MiD-yuXqDsE). Now also includes two-handing weapons, physical weapon collisions, and an automatic fix for the physics engine.
+* [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416) - Gives you a body, weapon holsters, gestures for magic and shouts, and finger animations for oculus and index users. Watch this [setup guide video](https://www.youtube.com/watch?v=TvtEiV3V_gM) to get the most out of it. Run the "VRIK Calibration" power to calibrate the body height and VR scale (in that order).
+* [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630) - Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch and more without going into a menu very quickly by the press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically. Also shows health, stamina, magicka, enchantment, and needs bars on your wrist (configurable).* [Swap Drop and Hold](https://www.nexusmods.com/skyrimspecialedition/mods/49425/) - Add some extra VR interactivity by adding spells for equipping weapons you're holding using HIGGs, dropping weapons you have equipped, or swapping weapons between your left and right hands. Assign the spells to VRIK gestures to have it work immersively.
+* [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374) - You can throw weapons now and they return like Thor's Hammer! I also made a [video](https://www.youtube.com/watch?v=YJlE_xYIiN8) about it and an [update video](https://www.youtube.com/watch?v=a0jIU548Ask) about returning weapons. It is very strong by default so a setup using the Mod Configuration is recommended.
+* [Magic Improvements for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/55751) -  Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR. By default the spells are cast from your palms now, if you want to shoot them like a pistol, set the angles in the MIS VR ini file to 0.
+* [No Stagger Mod](https://www.nexusmods.com/skyrimspecialedition/mods/16335) - Stagger is shite in VR so this mod disables it.
+* [Simple Realistic Archery](https://www.nexusmods.com/skyrimspecialedition/mods/28524) - Changes archery so you have to get an arrow from your quiver at the back, can easily use different arrows.
+* [Locational Damage VR](https://www.nexusmods.com/skyrimspecialedition/mods/26447) - Headshots do extra damage! Tune up the difficulty and git gud scrub.
+
+### Optional VR Gameplay Mods
+
+Green section
+
+* [Mage VR](https://www.nexusmods.com/skyrimspecialedition/mods/21297) - This mod uses an overlay to let you draw glyphs to cast and equip spells. It also has a very immersive hand-pose magic feature and (invisible) holsters (which are disabled by default because VRIK has holsters, too). But the best thing is the new backpack inventory and immersive looting feature, which lets you loot via drag and drop and without pausing the game. Requires the game to be run via SteamVR (not compatible with OpenComposite). Watch [this video](https://youtu.be/ThWB_TLcMbM) to see the mod and learn how to use it.
+* [Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174) - This mod brings immersive navigation to VR with a functional compass, and equipable maps that may be holstered. 
+* [Drop on Death](https://www.nexusmods.com/skyrimspecialedition/mods/48363) - Makes NPCs drop their items on death. 
+* [Physical Dodge VR](https://www.nexusmods.com/skyrimspecialedition/mods/58605) - This mod allows you to initiate a slow time effect with a few invincibility-frames by physically moving your body in VR! Three methods to trigger dodging are included to accomodate any size playspace. 
+* [Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613) - Do you want to drink a virtual mug of ale or eat a home cooked meal in one of Skyrims taverns? Have the ability to sit anywhere you choose while trekking through the wilderness? Perhapes you dream of a more immsersive sleep system which allows you to actually use beds? Be Seated can now provide these functions and more! 
+
+### Optional Gameplay Mods 
+
+Yellow section
+
+* [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) - Vokrii is a lightweight "vanilla-plus" perk overhaul that improves build diversity, but respects the vanilla vision and balance. It is lightweight and uses clean scripting. 
+* [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549?tab=description) - Combat overhaul to make the game more interesting, yellow gameplay section.
+* [Enhanced Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/35133) - Ups the enemy levels in dungeons to be more close to the player's level.
+* [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) - Enemy Overhaul focusing on enemy variation and hard boss battles. No shame in lowering the game difficulty settings with this enabled, it makes the combats harder and more interesting.
+* [Strike Obstruction Systems - Combat Blocking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/53050) - Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks slow time and provide greater mitigation, redirect parried arrows & spells, and inflict various debuffs. All features configurable via MCM. 
+* [MArc - Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404) - An arcane archer is a hybrid archer/caster class, who combines their archery skills with conjuration and destruction spells. They can shoot arcane and elemental arrows of five different types that they summon with their own magicka, modify them with 16 different "sigil" effect spells, and engrave them with spells they know. 
+* [Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627) - Optional magic gameplay mod (yellow section), very intuitive and cool once you get the hang of it, can also be used in conjunction with archery and melee playstyles. You can watch this little [introduction and tutorial video](https://www.youtube.com/watch?v=mkG4PoMCwaM) to see what it does in general. It also has an ingame tutorial that explains every step.
+* [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), and [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Add new spells to the game. Select the appropriate patches, too.
+* [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) - Tired of crowded spell vendors? Want to filter your spell selection by level, school and sub-type (e.g. Fire)? Want to feel like a powerful mage making their own spells in a torrent of arcane flames and unleashed power? Stop eating tomes and instead try out a more immersive, configurable and fun way to expand your spell book. 
+* [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023) - When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. Activate the mod in the MCM or by reading the book.
+* [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345) - This is a recalibration of Skyrim's detection formula, which improves the balanced and realism of sneaking. Enemies will have enhanced sight and hearing abilities, and will search longer when alerted. Three versions are available.
+* [Swearing Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/1951) - You didn't know you needed this, [but you do](https://www.youtube.com/watch?v=uSHvPJD_558).
+
+Here you can check out our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
 
 # Performance adjustment
 
