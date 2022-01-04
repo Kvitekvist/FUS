@@ -13,7 +13,8 @@ NOTE: We only provide support on unmodified versions of FUS.
 
 [Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
 
-Channel uses:
+###Channel uses:
+
 general : A General lobby to hang out and have fun with FUS.
 
 support : A channel for support questions for unmodified FUS modlists of the most current version.
