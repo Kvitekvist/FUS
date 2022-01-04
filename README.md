@@ -15,11 +15,17 @@ NOTE: We only provide support on unmodified versions of FUS.
 
 Channel uses:
 general : A General lobby to hang out and have fun with FUS.
+
 support : A channel for support questions for unmodified FUS modlists of the most current version.
+
 unsupported-mod-discussion : If you have made any changes at all to the modlist and have questions to adding, removing or changing things.
+
 suggestions : A channel to suggest new mods or improvements. Keep in mind, the core of FUS is to be minimalistic. Not a modlist to cover everything awesome that nexus has to offer.
+
 bot-faq : Find useful bot commands to help with issues
+
 general-faq : General FAQ's
+
 quick-troubleshooting : Find some answers on common issues
 
 --------
