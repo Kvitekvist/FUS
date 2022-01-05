@@ -142,7 +142,7 @@ IMPORTANT: This mod does not work when OpenComposite is used! However, the perfo
 
 ### Other
 
-One additional thing you might want to change is `Auto Sneak and Jump`, this mod will make it so your sneaking is automatically determined by your head height. If this mod is enabled, playing seated will mean you sneak all the time, so disable this mod if you want to play seated. Additionally you might want to adjust the sneak height in the ini of the mod (right click > show files in explorer) if you feel like sneak doesn't work how you want it. We disabled the auto jump because we don't like it too much but you can of course also enable it again.
+One additional thing you might want to change is `Auto Sneak and Jump` under `VR Gameplay Mods`, this mod will make it so your sneaking is automatically determined by your head height. If this mod is enabled, playing seated will mean you sneak all the time, so disable this mod if you want to play seated. Additionally you might want to adjust the sneak height in the ini of the mod (right click > show files in explorer) if you feel like sneak doesn't work how you want it. We disabled the auto jump because we don't like it too much but you can of course also enable it again.
 
 # How to start up FUS
 
