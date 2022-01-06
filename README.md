@@ -146,6 +146,8 @@ One additional thing you might want to change is `Auto Sneak and Jump`, this mod
 
 Another mod you might or might not like is `Mute the Music` which, surprise, makes the game not play most music. Some tavern songs are still played but in general most music is gone. This is enabled only in the `Cangar` profile for immersion reasons. Safe to enable/disable anytime.
 
+Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to shoow magic out of tthe palm, not like the default pistol shooting style, but if you prefer the latter, you can open the mod files (right click, show in explorer), and set the `MagicRotationYaw` angle to 0.
+
 # How to start up FUS
 
 Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. If you already had MO2 installed, you cannot use your own MO2 version, you have to use the one provided by FUS. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button. 
