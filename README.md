@@ -130,7 +130,7 @@ Surprise: **DO NOT TOUCH** the files that are marked as such.
 
 ### Choose controller options
 
-In MO2 in category `Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). "Rift" in this case means only the Oculus Rift, so if you use a Quest or Quest 2, do NOT use that mod. If you use the mod that case you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
+In MO2 in category `Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). "Rift" in this case means only the Oculus Rift and Rift S, so if you use a Quest or Quest 2, do NOT use that mod. If you use the mod that case you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
 
 In [this guide](https://docs.google.com/document/d/15OU6kbtt-jNQ8sL8d-URMuNa-r1-kKJbJHt0dHE-VpU) I explain the controller mappings in more detail so you can change to whatever you wish if you want.
 
