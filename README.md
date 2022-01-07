@@ -174,7 +174,10 @@ When you created your character and are in the game you should calibrate [VRIK](
 * [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630): Here you can adjust what you see in the spell selection wheel, and you can also change which button summons the wheel.
 * [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541): Very detailed options to adjust balance and difficulty of the game. We recommend adjusting both archery and melee damage to 50% because in VR you are much faster than in vanilla for both these combat types (even with a quiver mod like we provide it)
 * SkyUI VR: Here you can disable the "Active Effects", which are otherwise floating in your field of view.
-* [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050): By default, a timed block triggers sparks visual effects, but Skyrim being Skyrim these are bugged sometimes. If you don't see sparks when you do timed blocks, but you hear the timed block sound and there is a short slow motion, you can change these to "Flash" for both 1st and 3rd person view to get a different visual effect.
+* [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050): By default, a timed block triggers sparks visual effects, but Skyrim being Skyrim these are bugged sometimes. If you don't see sparks when you do timed blocks, but you hear the timed block sound and there is a short slow motion, you can change these to "Flash" for both 1st and 3rd person view to get a different visual effect. You can also disable the slomo effect by disabling "Blockstop".
+* [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): FEC comes with an extended death cam which is annoying and recommended to be switched off if you use the mod.
+* [Be Seated VR](https://www.nexusmods.com/skyrimspecialedition/mods/16613): If you use the mod, you can disable the sitting prompts and the horse support if you dont plan to sit on a real physical chair.
+* [Mage VR](https://www.nexusmods.com/skyrimspecialedition/mods/21297): You can spawn the Mage VR backpack here if you use the mod.
 
 # What's in the box?! The modlist
 
