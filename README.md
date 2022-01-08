@@ -162,6 +162,8 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 
 ## First steps in the game
 
+This step also has a video guide on how to get started ingame when using FUS: https://youtu.be/AslbbLDj1e8
+
 When starting the game with FUS you will find yourself in the Realm of Lorkhan, not in the standard intro of Skyrim. Realm of Lorkhan replaces the intro and adds some variety to starting a character (see the [RoL mod page](https://www.nexusmods.com/skyrimspecialedition/mods/18223) for details). You teleport into the world using the crystals, but beware, it is one-way in the `Cangar` profile! The intro is very bugged in VR. We recommend you just watch the [intro on YouTube](https://youtu.be/vsRA5BG3N8E?t=61), and then start a new character. Or start Skyrim from Steam (which means it is without mods), play the intro, then once you leave Helgen, quit the game and start a new game with FUS and pretend its the old one. But don't try to run the intro with the modded game. Its just more stable this way.
 
 The main quest is started by either running through the Bleak Falls Barrow dungeon, or by talking to Jarl Balgruuf in Whiterun.
