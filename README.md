@@ -117,7 +117,7 @@ FUS is a fundamental modlist for Skyrim VR that offers 4 profiles.
 + FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
 + Cangar: FUS RO DAH with my choice of optionals (almost all). Choose this if you want to follow and replay my Youtube series.
 
-Of course you can also select your own choices from the profiles. If you want to use optional files, it is better to use the FUS RO DAH profile and *deselect* mods than to use the FUS RO profile and selecting optional mods. This is to preserve the correct load order.
+Of course you can also select your own choices from the profiles. If you want to use optional mods, it is better to use the FUS RO DAH or Cangar profiles and *deselect* mods than to use the lower profiles and selecting optional mods. This is to preserve the correct load order.
 
 The green parts are really the mods that we think no Skyrim VR mod list should be without.
 The blue parts contain a selection of audio/visual/architecture/armory/NPC overhauls that we think is fine to work as standalone. This is personal preference and just a selection we made and like.
