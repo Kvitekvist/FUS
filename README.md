@@ -55,7 +55,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
     - [Activate the essential files](#activate-the-essential-files)
     - [Choose ENB or Reshade](#choose-enb-or-reshade)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
-    - [Choose controller options](#choose-controller-options)
+    - [Choose controller bindings](#choose-controller-bindings)
     - [VR FPS Stabilizer](#vr-fps-stabilizer)
     - [Other](#other)
 - [How to start up FUS](#how-to-start-up-fus)
@@ -129,11 +129,15 @@ Mod authors appreciate an endorsement! :)
 
 Surprise: **DO NOT TOUCH** the files that are marked as such. 
 
-### Choose controller options
+### Choose controller bindings
 
-In MO2 in category `Optional VR Gameplay Mods` there is a mod called `VRIK Rift-Index-WMR Controller Bindings`. Enable this if you want to use the VRIK controller bindings (recommended). "Rift" in this case means only the Oculus Rift and Rift S, so if you use a Quest or Quest 2, do NOT use that mod. If you use the mod you need to also enable the bindings in SteamVR controller settings after starting the game! Please see the [VRIK mod page](https://www.nexusmods.com/skyrimspecialedition/mods/23416) for explanations about the controller bindings.
+In the green MO2 in category `Controller Bindings` we provide several bindings options. The default vanilla options are not recommended, but there are different options to select which is very much personal preference. 
 
-In [this guide](https://docs.google.com/document/d/15OU6kbtt-jNQ8sL8d-URMuNa-r1-kKJbJHt0dHE-VpU) I explain the controller mappings in more detail so you can change to whatever you wish if you want.
+Please have a look at our [detailed controller binding guide](https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide) where you can find info about the different options and what exactly the bindings do in the game. Really, read that guide for sure, it will help you understand what's going on when you are in the game.
+
+No matter the controller binding you use inside Skyrim, if you use the `Valve Index controllers` you need to enable the VRIK SteamVR bindings **in addition**: Navigate to your SteamVR Settings -> Devices -> Controller Settings.  Click on Manage Controller Bindings.  Select The Elder Scrolls V: SkyrimVR from the drop down list.  Click "Edit this Binding" (you may need to click the "Custom" button to make it appear).  A new window will pop up.  You may need to click Back in the top-left.  Make sure it shows your Index Controllers as the Current Controller - Change it if necessary.  A list of Community bindings should become visible.  Find and select the "VRIK Index Controller Bindings V2.1.0" in the list.  Be careful not to select the older V1.0.0 or V2.0.0 bindings by mistake, as this will not work.  Selecting the VRIK Index Controller Bindings V2.1.0 here will complete the process. This can also be done when the game was already started from inside the SteamVR settings menu in VR.
+
+Note: Always remember to turn on your Index controllers before starting SkyrimVR, or you will encounter game breaking bugs. 
 
 ### VR FPS Stabilizer
 
