@@ -141,9 +141,11 @@ Note: Always remember to turn on your Index controllers before starting SkyrimVR
 
 ### VR FPS Stabilizer
 
-This mod has a separate category. I smoothes your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
+**CURRENTLY REMOVED DUE TO COMPATIBILITY ISSUES WITH ENIGE FIXES!** You can still try it out by [installing it yourself](https://www.nexusmods.com/skyrimspecialedition/mods/31392).
 
 IMPORTANT: This mod does not work when OpenComposite is used! However, the performance boost of OpenComposite is still the better choice.
+
+This mod has a separate category. I smoothes your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
 
 ### Other
 
