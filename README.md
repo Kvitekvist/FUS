@@ -277,6 +277,8 @@ We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-a
 
 If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating.
 
+**Wabbajack will reset your VRIK settings when updating!** You can save them by backing up the three ini files in the VRIK/SKSE/Plugins folder and putting them back in after you updated.
+
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
