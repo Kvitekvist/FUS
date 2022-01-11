@@ -157,6 +157,8 @@ Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cas
 
 # How to start up FUS
 
+**Note:** Always remember to turn on your controllers before starting SkyrimVR, or you will encounter game-breaking bugs! This is important no matter which VR headset you use.
+
 Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. If you already had MO2 installed, you cannot use your own MO2 version, you have to use the one provided by FUS. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button. 
 
 **This has to be done each time you want to play Skyrim VR!** 
