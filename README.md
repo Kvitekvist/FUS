@@ -141,7 +141,7 @@ Note: Always remember to turn on your Index controllers before starting SkyrimVR
 
 ### VR FPS Stabilizer
 
-**CURRENTLY REMOVED DUE TO COMPATIBILITY ISSUES WITH ENIGE FIXES!** You can still try it out by [installing it yourself](https://www.nexusmods.com/skyrimspecialedition/mods/31392).
+**CURRENTLY REMOVED DUE TO COMPATIBILITY ISSUES WITH ENIGE FIXES!** You can still try it out by [installing it yourself](https://www.nexusmods.com/skyrimspecialedition/mods/31392). We will need to sort some things out and make sure we understand everything and provide a stable setup, then it might be back.
 
 IMPORTANT: This mod does not work when OpenComposite is used! However, the performance boost of OpenComposite is still the better choice.
 
