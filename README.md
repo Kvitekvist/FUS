@@ -187,6 +187,7 @@ When you created your character and are in the game you should calibrate [VRIK](
 * [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): FEC comes with an extended death cam which is annoying and recommended to be switched off if you use the mod.
 * [Be Seated VR](https://www.nexusmods.com/skyrimspecialedition/mods/16613): If you use the mod, you can disable the sitting prompts and the horse support if you dont plan to sit on a real physical chair.
 * [Mage VR](https://www.nexusmods.com/skyrimspecialedition/mods/21297): You can spawn the Mage VR backpack here if you use the mod.
+* [Simple Realistic Archery](https://www.nexusmods.com/skyrimspecialedition/mods/28524): You can add stamina cost and time penalty for archery.
 
 # What's in the box?! The modlist
 
