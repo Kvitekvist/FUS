@@ -162,6 +162,10 @@ Another mod you might or might not like is `Mute the Music` which, surprise, mak
 
 Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to shoow magic out of tthe palm, not like the default pistol shooting style, but if you prefer the latter, you can open the mod files (right click, show in explorer), and set the `MagicRotationYaw` angle to 0.
 
+We also have plently of additional optional gameplay mods that we discuss in the [noteworthy mods](#noteworthy-gameplay-mods) section.
+
+If you want to use optional mods, it is better to use the FUS RO DAH or Cangar profiles and *deselect* mods than to use the lower profiles and selecting optional mods. This is to preserve the correct load order. If you add optional mods you should make sure that the load order to the right in MO2 has DynDOLOD and Synthesis as the last plugins.
+
 # How to start up FUS
 
 **Note:** Always remember to turn on your controllers before starting SkyrimVR, or you will encounter game-breaking bugs! This is important no matter which VR headset you use.
@@ -211,6 +215,8 @@ Here you can check out our [complete mod list](https://github.com/Kvitekvist/FUS
 ## Noteworthy gameplay mods
 
 All `VR Gameplay Mods` are important, and you should also check out the `Optional VR Gameplay Mods` and the `Gameplay Overhauls` in addition and select your choices. Definitely check out the mod pages for details about the mods! In this section we don't discuss visual mods (blue section) since these do not alter gameplay, but you can check them out in our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
+
+If you want to use optional mods, it is better to use the FUS RO DAH or Cangar profiles and *deselect* mods than to use the lower profiles and selecting optional mods. This is to preserve the correct load order. If you add optional mods you should make sure that the load order to the right in MO2 has DynDOLOD and Synthesis as the last plugins.
 
 ### VR Gameplay Mods
 
