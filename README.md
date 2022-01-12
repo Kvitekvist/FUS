@@ -57,6 +57,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
     - [Choose controller bindings](#choose-controller-bindings)
     - [VR FPS Stabilizer](#vr-fps-stabilizer)
+    - [Insects Begone](#insects-begone)
     - [Other](#other)
 - [How to start up FUS](#how-to-start-up-fus)
   - [First steps in the game](#first-steps-in-the-game)
@@ -146,6 +147,12 @@ No matter the controller binding you use inside Skyrim, if you use the `Valve In
 IMPORTANT: This mod does not work when OpenComposite is used! However, the performance boost of OpenComposite is still the better choice.
 
 This mod has a separate category. I smoothes your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
+
+### Insects Begone
+
+We want to make this list as inclusive as we can so we ship an option to remove insects (spiders and chaurus). You can find three optional mods at the end of the blue section. *Only choose one of them!* FYI: We decided not to remove the webs because this breaks some NPCs.
+
+**NOTE:** *If you want to use these you absolutely have to rerun Synthesis and make sure the Synthesis.esp is at the bottom of the plugins section at the right hand side of MO2!* Otherwise the water will be broken, or you don't fully remove all insects and their stuff. Check [this guide](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)) at the bottom for more info.
 
 ### Other
 
