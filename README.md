@@ -47,7 +47,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
 
 --------
 
-- [FUS - Fundamentals, Updates, and Stuff](#fus---fundamentals-updates-and-stuff)
+- [FUS](#fus---fundamentals-updates-and-stuff)
 - [Installation](#installation)
   - [First time installation, PC preparation](#first-time-installation-pc-preparation)
   - [Download and installation of the FUS modlist](#download-and-installation-of-the-fus-modlist)
