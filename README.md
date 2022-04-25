@@ -62,7 +62,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
 - [How to start up FUS](#how-to-start-up-fus)
   - [First steps in the game](#first-steps-in-the-game)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
-  - [Noteworthy gameplay mods](#noteworthy-gameplay-mods)
+  - [Noteworthy gameplay mods](#noteworthy-gameplay-mods) 
 - [Performance adjustment](#performance-adjustment)
 - [FAQ](#faq)
 - [Updating FUS](#updating-fus)
