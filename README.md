@@ -95,7 +95,7 @@ If you run into any issues see the [wabbajack troubleshooting page](https://gith
 
 You need to open MO2 `ModOrganizer.exe` from within the FUS folder. If you had a different MO2 installed previously, do not use that one.
 
-DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png). Such a button exists for the mod order as well as the plugins order.
+DO NOT RUN LOOT! Every time you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png). Such a button exists for the mod order as well as the plugins order.
 
 ### Activate the essential files
 
@@ -146,7 +146,7 @@ No matter the controller binding you use inside Skyrim, if you use the `Valve In
 
 IMPORTANT: This mod does not work when OpenComposite is used! However, the performance boost of OpenComposite is still the better choice.
 
-This mod has a separate category. I smoothes your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
+This mod has a separate category. It smooths your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection. You need to select the setting that corresponds to your refresh rate. This means for an HTC Vive, select 90 Hz, for a Rift, select 80 Hz, and for devices with variable framerates like the Valve Index, select the option that is the same as your framerate in the device. If you use forced reprojection (motion smoothing always on in SteamVR or forced ASW in Oculus), you need to select the option for half the framerate! E.g. I set the Valve Index to 120Hz, have motion smoothing set to "always on", and thus I need the 60 Hz setting of VR FPS Stabilizer.
 
 ### Insects Begone
 
@@ -160,7 +160,7 @@ One additional thing you might want to change is `Auto Sneak and Jump`, this mod
 
 Another mod you might or might not like is `Mute the Music` which, surprise, makes the game not play most music. Some tavern songs are still played but in general most music is gone. This is enabled only in the `Cangar` profile for immersion reasons. Safe to enable/disable anytime.
 
-Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to shoow magic out of tthe palm, not like the default pistol shooting style, but if you prefer the latter, you can open the mod files (right click, show in explorer), and set the `MagicRotationYaw` angle to 0.
+Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to show magic out of the palm, not like the default pistol shooting style, but if you prefer the latter, you can open the mod files (right click, show in explorer), and set the `MagicRotationYaw` angle to 0.
 
 We also have plently of additional optional gameplay mods that we discuss in the [noteworthy mods](#noteworthy-gameplay-mods) section.
 
@@ -176,7 +176,7 @@ Head over to the installation folder and locate the executable named `ModOrganiz
 
 You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the `Run` button :)
 
-**IMPORTANT:** Skyrim VR is very particular about controllers. Make absoutely sure Steam VR and your controllers are switched on *before* starting the game!
+**IMPORTANT:** Skyrim VR is very particular about controllers. Make absolutely sure Steam VR and your controllers are switched on *before* starting the game!
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
@@ -198,13 +198,13 @@ When you created your character and are in the game you should calibrate [VRIK](
 * SkyUI VR: Here you can disable the "Active Effects", which are otherwise floating in your field of view.
 * [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050): By default, a timed block triggers sparks visual effects, but Skyrim being Skyrim these are bugged sometimes. If you don't see sparks when you do timed blocks, but you hear the timed block sound and there is a short slow motion, you can change these to "Flash" for both 1st and 3rd person view to get a different visual effect. You can also disable the slomo effect by disabling "Blockstop".
 * [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532): FEC comes with an extended death cam which is annoying and recommended to be switched off if you use the mod.
-* [Be Seated VR](https://www.nexusmods.com/skyrimspecialedition/mods/16613): If you use the mod, you can disable the sitting prompts and the horse support if you dont plan to sit on a real physical chair.
+* [Be Seated VR](https://www.nexusmods.com/skyrimspecialedition/mods/16613): If you use the mod, you can disable the sitting prompts and the horse support if you don't plan to sit on a real physical chair.
 * [Mage VR](https://www.nexusmods.com/skyrimspecialedition/mods/21297): You can spawn the Mage VR backpack here if you use the mod.
 * [Simple Realistic Archery](https://www.nexusmods.com/skyrimspecialedition/mods/28524): You can add stamina cost and time penalty for archery.
 
 # What's in the box?! The modlist
 
-We ship all the little bits and pieces that fix things, improve the basic quality of life, and naturally we include all the cool VR specific mods that bring the game to the level of a modern VR game. Most notably that is VRIK giving you a body, HIGGS VR giving you gravity gloves and weapon physics collitions (not with enemy weapons unfortunately), Spell Wheel VR giving you a spell and other stuff selection wheel like Blade and Sorcery, Weapon Throw VR to - well - throw your weapons, and many more! But also other necessities like USSEP, SkyUI VR, True 3D sound, Engine Fixes VR, SkyVRaan (enabling fake water reflections). Of course, we also have a basic selection for overhauls of trees, architecture, weather, lighting, characters, objects, weapons, armors. And lastly, we offer a small selection of gameplay mods that increase the difficulty a bit, make the game more interesting, improve some stuff here and there. 
+We ship all the little bits and pieces that fix things, improve the basic quality of life, and naturally we include all the cool VR specific mods that bring the game to the level of a modern VR game. Most notably that is VRIK giving you a body, HIGGS VR giving you gravity gloves and weapon physics collisions (not with enemy weapons unfortunately), Spell Wheel VR giving you a spell and other stuff selection wheel like Blade and Sorcery, Weapon Throw VR to - well - throw your weapons, and many more! But also other necessities like USSEP, SkyUI VR, True 3D sound, Engine Fixes VR, SkyVRaan (enabling fake water reflections). Of course, we also have a basic selection for overhauls of trees, architecture, weather, lighting, characters, objects, weapons, armors. And lastly, we offer a small selection of gameplay mods that increase the difficulty a bit, make the game more interesting, improve some stuff here and there. 
 
 We also ship all major ENB or Reshade presets that are very easy for you to enable or disable with a click instead of manual copy action.
 
@@ -239,7 +239,7 @@ Green section
 * [Mage VR](https://www.nexusmods.com/skyrimspecialedition/mods/21297) - This mod uses an overlay to let you draw glyphs to cast and equip spells. It also has a very immersive hand-pose magic feature and (invisible) holsters (which are disabled by default because VRIK has holsters, too). But the best thing is the new backpack inventory and immersive looting feature, which lets you loot via drag and drop and without pausing the game. Requires the game to be run via SteamVR (not compatible with OpenComposite). Watch [this video](https://youtu.be/ThWB_TLcMbM) to see the mod and learn how to use it.
 * [Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174) - This mod brings immersive navigation to VR with a functional compass, and equipable maps that may be holstered. In [this video](https://www.youtube.com/watch?v=dj3sqpI-IUg) I show the functions.
 * [Drop on Death](https://www.nexusmods.com/skyrimspecialedition/mods/48363) - Makes NPCs drop their items on death. 
-* [Physical Dodge VR](https://www.nexusmods.com/skyrimspecialedition/mods/58605) - This mod allows you to initiate a slow time effect with visual feedback (white haze) with a few invincibility-frames by physically moving your body in VR! Three methods to trigger dodging are included to accomodate any size playspace. 
+* [Physical Dodge VR](https://www.nexusmods.com/skyrimspecialedition/mods/58605) - This mod allows you to initiate a slow time effect with visual feedback (white haze) with a few invincibility-frames by physically moving your body in VR! Three methods to trigger dodging are included to accommodate any size playspace. 
 * [Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613) - Do you want to drink a virtual mug of ale or eat a home cooked meal in one of Skyrims taverns? Have the ability to sit anywhere you choose while trekking through the wilderness? Perhapes you dream of a more immsersive sleep system which allows you to actually use beds? Be Seated can now provide these functions and more! 
 
 ### Optional Gameplay Mods 
