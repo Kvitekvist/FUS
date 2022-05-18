@@ -81,7 +81,7 @@ This may look like a good amount of work but the process is fast and you just ne
 
 ## First time installation, PC preparation
 
-These steps are only needed if you install FUS for the first time. If you update the modlist, jump straight to [Updating](#updating)!
+These steps are only needed if you install FUS for the first time. If you update the modlist, jump straight to [Updating](#updating-fus)!
 
 Follow all steps on [this page](https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist) to prepare your PC to install FUS. This includes requirements, cleaning Skyrim, and installing Wabbajack.
 
