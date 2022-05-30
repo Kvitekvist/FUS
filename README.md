@@ -210,7 +210,7 @@ We also ship all major ENB or Reshade presets that are very easy for you to enab
 
 We do not feature quest additions, nor added regions or dungeons. However, the list is extremely lightweight and compatibility should not be much of a problem, so you can add them yourself if you like.
 
-Here you can check out our [complete mod list](https://app.powerbi.com/view?r=eyJrIjoiMDE4NTA0ZTMtOWMzNy00OTIxLTg0NzctN2FkNzNlM2ZhM2JiIiwidCI6ImY3MTc4NmIzLTY4YzAtNDQ1NC04ZGE1LWI5N2NlZWEzMjZlNiIsImMiOjh9&pageName=ReportSection1d1d6d2610f6ce70d78d).
+Here you can check out our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
 
 ## Noteworthy gameplay mods
 
