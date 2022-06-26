@@ -289,6 +289,7 @@ We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-a
 
 
 # Troubleshooting
+
 The [Discord bot](https://discord.com/channels/874974449403826197/916605844261572609) has a list of handy commands with instructions on how to overcome common problems.  If none of these resolve your issue, the Discord has a [support channel](https://discord.com/channels/874974449403826197/874974569373528104) for questions about unmodified FUS modlists of the most current version.
 
 
