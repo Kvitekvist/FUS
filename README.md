@@ -65,6 +65,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Noteworthy gameplay mods](#noteworthy-gameplay-mods) 
 - [Performance adjustment](#performance-adjustment)
 - [FAQ](#faq)
+- [Troubleshooting](#troubleshooting)
 - [Updating FUS](#updating-fus)
   - [Removing FUS](#removing-fus)
 - [Changelog](#changelog)
@@ -286,6 +287,11 @@ We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-a
 * The LOOT tool missing! -> LOOT is removed because running it will break the modlist.
 
 * I added / changed some mods. What are your settings for rerunning DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)).
+
+
+# Troubleshooting
+
+The [Discord bot](https://discord.com/channels/874974449403826197/916605844261572609) has a list of handy commands with instructions on how to overcome common problems.  If none of these resolve your issue, the Discord has a [support channel](https://discord.com/channels/874974449403826197/874974569373528104) for questions about unmodified FUS modlists of the most current version.
 
 
 # Updating FUS
