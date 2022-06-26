@@ -65,6 +65,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Noteworthy gameplay mods](#noteworthy-gameplay-mods) 
 - [Performance adjustment](#performance-adjustment)
 - [FAQ](#faq)
+- [Troubleshooting](#troubleshooting)
 - [Updating FUS](#updating-fus)
   - [Removing FUS](#removing-fus)
 - [Changelog](#changelog)
