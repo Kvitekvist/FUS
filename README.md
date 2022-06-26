@@ -288,6 +288,10 @@ We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-a
 * I added / changed some mods. What are your settings for rerunning DynDoLOD and Synthesis? -> You can find them [in the wiki](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)).
 
 
+# Troubleshooting
+The [Discord bot](https://discord.com/channels/874974449403826197/916605844261572609) has a list of handy commands with instructions on how to overcome common problems.  If none of these resolve your issue, the Discord has a [support channel](https://discord.com/channels/874974449403826197/874974569373528104) for questions about unmodified FUS modlists of the most current version.
+
+
 # Updating FUS
 
 If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating.
