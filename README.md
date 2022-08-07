@@ -108,7 +108,7 @@ First of all, we highly recommend not using any supersampling, neither in Steam/
 
 [Here](https://github.com/Kvitekvist/FUS/wiki/Choose-ENB-or-Reshade) we explain how you can choose and switch different pre-installed ENBs and Reshade presets easily. No need to install manually! :)
 
-All ENB or Reshade options we provide include a sharpener which is meant to be used in combination with temporal ani-aliasing (TAA) switched on ingame.
+All ENB or Reshade options we provide include a sharpener which is meant to be used in combination with temporal anti-aliasing (TAA) switched on ingame.
 
 ## Select the profile of your choice
 
