@@ -52,8 +52,6 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [First time installation, PC preparation](#first-time-installation-pc-preparation)
   - [Download and installation of the FUS modlist](#download-and-installation-of-the-fus-modlist)
   - [Post-installation](#post-installation)
-    - [Activate the essential files](#activate-the-essential-files)
-    - [Choose ENB or Reshade](#choose-enb-or-reshade)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
     - [Choose controller bindings](#choose-controller-bindings)
     - [VR FPS Stabilizer](#vr-fps-stabilizer)
