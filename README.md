@@ -98,18 +98,6 @@ You need to open MO2 `ModOrganizer.exe` from within the FUS folder. If you had a
 
 DO NOT RUN LOOT! Every time you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it. In case you changed it you can recover it with the [`Restore` button](https://github.com/Kvitekvist/FUS/blob/main/images/restore%20loadorder.png). Such a button exists for the mod order as well as the plugins order.
 
-### Activate the essential files
-
-[This step](https://github.com/Kvitekvist/FUS/wiki/Activate-the-Essential-Files) will add the required files for SKSE, Engine Fixes, DLL loader and other essential files that cannot be handled by MO2. It is a required step, DO NOT SKIP THIS!
-
-### Choose ENB or Reshade
-
-First of all, we highly recommend not using any supersampling, neither in Steam/Oculus, nor ingame. Set everything to 100%. Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it.
-
-[Here](https://github.com/Kvitekvist/FUS/wiki/Choose-ENB-or-Reshade) we explain how you can choose and switch different pre-installed ENBs and Reshade presets easily. No need to install manually! :)
-
-All ENB or Reshade options we provide include a sharpener which is meant to be used in combination with temporal anti-aliasing (TAA) switched on ingame.
-
 ## Select the profile of your choice
 
 FUS is a fundamental modlist for Skyrim VR that offers 4 profiles.
@@ -130,6 +118,14 @@ The red late load parts contain patches that we created for this mod list. Use t
 Mod authors appreciate an endorsement! :)
 
 Surprise: **DO NOT TOUCH** the files that are marked as such. 
+
+## Choose your setup
+
+Since FUS is modular by nature, we do NOT expect you to activate all mods. After choosing the profile you like, it is time to start choosing mods. 
+
+### Boot files
+
+Near the top of MO2 in FUS, there is a dark green mod category. This contain several different options. This is where you activate opencomposite (for Meta users), this is where you choose ENB or ReShade of you want, and also where you can choose to use any of the upscaler mods (DLSS, DLAA or FSR).
 
 ### Choose controller bindings
 
