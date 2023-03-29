@@ -320,7 +320,7 @@ Again, **do check the description/changelog of the update** to get the necessary
 
 ### Removing FUS
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to remove them with the tool they were installed with (see [activate essential files](https://github.com/Kvitekvist/FUS/wiki/Activate-the-Essential-Files)), or if you want to be absolutely sure, just do a clean install of Skyrim VR again (see [clean Skyrim](https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist#clean-skyrim)).
+You can just remove the MO2 folder and be done with it. If you want to be absolutely sure, just do a clean install of Skyrim VR again (see [clean Skyrim](https://github.com/Kvitekvist/FUS/wiki/Prepare-PC-for-modlist#clean-skyrim)).
 
 ## Changelog
 
