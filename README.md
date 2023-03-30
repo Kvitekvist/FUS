@@ -274,6 +274,10 @@ Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic
 
 See [above](#performance-adjustment).
 
+### I want to manually change the ini files and its tedious!
+
+If you have access to an in-VR desktop environment, like Oculus Dash, you can change the ini file & update it in-game on the fly using the 'refini' console command. This lets you test out ini setting changes really quickly without having to restart the game. You can still use refini without such an in-VR desktop environment, just slide your headset up on your head to change the values on your PC & input the refini command.
+
 ### You use 3D trees plus Happy Little Trees?
 
 We are only using the plants from 3D trees.
