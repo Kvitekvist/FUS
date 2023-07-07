@@ -7,6 +7,8 @@ FUS is a fundamental and modular modlist for Skyrim VR made by Kvitekvist and Ca
 - FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones. User are expected to deselect mods from all optional categories, as we ship it with most optional mods enabled. This does not mean that we recommened using all overhauls.
 - Cangar: Basically FUS RO DAH with my personal choice of optional mods.
 
+Here is a [video guide](https://youtu.be/cu3i8s-H5qw) on how to install the list. 
+
 NOTE: We only provide support on unmodified versions of FUS.
 
 --------
