@@ -60,6 +60,7 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
     - [Insects Begone](#insects-begone)
     - [Other](#other)
 - [How to start up FUS](#how-to-start-up-fus)
+  - [First Boot](#first-boot)
   - [First steps in the game](#first-steps-in-the-game)
 - [What's in the box?! The modlist](#whats-in-the-box-the-modlist)
   - [Noteworthy gameplay mods](#noteworthy-gameplay-mods)
@@ -174,6 +175,10 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 **IMPORTANT:** Skyrim VR is very particular about controllers. Make absolutely sure Steam VR and your controllers are switched on *before* starting the game!
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
+
+### First Boot
+On your first boot, dont change any mods. Do NOT enable any ENB, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first.
+Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. See our discord for solution. Also, opencomposite crash the game if you use Virtual Desktop. Any time you make a change to mods in mod category 1.1 and 1.2 you need to clean up the root builder. Check the !root command in our discord for more information on this.
 
 ### First steps in the game
 
