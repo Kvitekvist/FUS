@@ -126,7 +126,7 @@ Since FUS is modular by nature, we do NOT expect you to activate all mods. After
 
 #### Boot files
 
-Near the top of MO2 in FUS, there is a dark green mod category. This contain several different options. This is where you activate opencomposite (for Meta users), this is where you choose ENB or ReShade of you want, and also where you can choose to use any of the upscaler mods (DLSS, DLAA or FSR).
+Near the top of MO2 in FUS, there is a dark green mod category. This contain several different options. This is where you activate opencomposite, Upscaler, ReShade and maybe other mods if you want.
 
 #### Choose controller bindings
 
@@ -275,7 +275,7 @@ Yes, we have a mod overriding that. If you want to play seated, disable `Auto Sn
 
 ### The game is really blurry
 
-Should not be blurry if you enabled a sharpener (ENB/Reshade). Make sure dynamic resolution is off!
+Should not be blurry if you enabled a sharpener (Reshade). Make sure dynamic resolution is off!
 
 ### Why is my performance so bad?
 
