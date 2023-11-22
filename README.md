@@ -206,8 +206,6 @@ When you created your character and are in the game you should calibrate [VRIK](
 
 We ship all the little bits and pieces that fix things, improve the basic quality of life, and naturally we include all the cool VR specific mods that bring the game to the level of a modern VR game. Most notably that is VRIK giving you a body, HIGGS VR giving you gravity gloves and weapon physics collisions (not with enemy weapons unfortunately), Spell Wheel VR giving you a spell and other stuff selection wheel like Blade and Sorcery, Weapon Throw VR to - well - throw your weapons, and many more! But also other necessities like USSEP, SkyUI VR, True 3D sound, Engine Fixes VR, SkyVRaan (enabling fake water reflections). Of course, we also have a basic selection for overhauls of trees, architecture, weather, lighting, characters, objects, weapons, armors. And lastly, we offer a small selection of gameplay mods that increase the difficulty a bit, make the game more interesting, improve some stuff here and there.
 
-We also ship all major ENB or Reshade presets that are very easy for you to enable or disable with a click instead of manual copy action.
-
 We do not feature quest additions, nor added regions or dungeons. However, the list is extremely lightweight and compatibility should not be much of a problem, so you can add them yourself if you like.
 
 Here you can check out our [complete mod list](https://github.com/Kvitekvist/FUS/wiki/The-full-modlist).
