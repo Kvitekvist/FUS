@@ -178,7 +178,7 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 
 ### First Boot
 On your first boot, dont change any mods. Do NOT enable any ENB, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first.
-Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. See our discord for solution. Also, opencomposite crash the game if you use Virtual Desktop. Any time you make a change to mods in mod category 1.1 and 1.2 you need to clean up the root builder. Check the !root command in our discord for more information on this.
+Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. See our discord for solution. Any time you make a change to mods in mod category 1.1 and 1.2 you need to clean up the root builder. Check the !root command in our discord for more information on this.
 
 ### First steps in the game
 
