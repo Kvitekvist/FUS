@@ -177,8 +177,8 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
 ### First Boot
-On your first boot, dont change any mods. Do NOT enable any ENB, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first.
-Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. See our discord for solution. Any time you make a change to mods in mod category 1.1 and 1.2 you need to clean up the root builder. Check the !root command in our discord for more information on this.
+On your first boot, dont change any mods. Do NOT enable any Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first.
+Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. You can try enabling and disabling TAA in the periphery by toggling the option in within the upscaler menu by pressing the `END` key on your keyboard. You will see this menu on the PC monitor.
 
 ### First steps in the game
 
@@ -267,37 +267,35 @@ We wrote a [detailed guide](https://github.com/Kvitekvist/FUS/wiki/Performance-a
 
 ## FAQ
 
-### I want to play seated but then I constantly sneak, changing the settings does nothing
-
-Yes, we have a mod overriding that. If you want to play seated, disable `Auto Sneak and Jump` in the green section. This is safe to do in an existing save.
-
 ### The game is really blurry
 
-Should not be blurry if you enabled a sharpener (Reshade). Make sure dynamic resolution is off!
+Should not be blurry if you enabled a sharpener (Reshade). Make sure dynamic resolution is off! Blur can also be caused by wireless connection compression. Make sure your router setup is up to the best possible speed. For more detailed support, you can join our discord.
 
 ### Why is my performance so bad?
 
 See [above](#performance-adjustment).
 
+### I have a root builder error!
+
+1. In MO2, Press the Jiggsaw icon, then choose Root builder >> Clear
+2. Scroll to the bottom of the modlist, find the mod named "overwrite", right click on it and choose "Clear Overwrite".
+3. Done. You can now play the game.
+
+Continue reading to learn why this happens.
+1. You pressed unlock when MO2 was running.
+Don't press unlock. This prevents files from being placed into and removed from the skyimvr folder, causing boot issues.
+2. The game crashed.
+If the game crashes then the cleanup step is skipped, and files that should be cleaned up are not. This can cause issues if you then disable mods that placed files in the skyrimvr.
+3. There are conflicting files in the Overwrite folder
+If you enabled a mod like upscaler (DLAA, DLSS, FSR), Reshade, opencomposite, ENB (not supported by FUS), and maybe others, then these mods could place files in the overwrite folder. Meaning that if you for example disable opencomposite, then opencomposite files could remain in the overwrite folder which is allways active. When you boot, these files will be loaded and it could cause a crash \ boot fail.
+
 ### I want to manually change the ini files and its tedious!
 
-If you have access to an in-VR desktop environment, like Oculus Dash, you can change the ini file & update it in-game on the fly using the 'refini' console command. This lets you test out ini setting changes really quickly without having to restart the game. You can still use refini without such an in-VR desktop environment, just slide your headset up on your head to change the values on your PC & input the refini command.
-
-### You use 3D trees plus Happy Little Trees?
-
-We are only using the plants from 3D trees.
+If you have access to an in-VR desktop environment, like Oculus Dash, you can change the ini file & update it in-game on the fly using the 'refini' console command. This lets you test out ini setting changes really quickly without having to restart the game. You can still use refini without such an in-VR desktop environment, just slide your headset up on your head to change the values on your PC & input the refini command. For more detailed support, you can join our discord and ask in the [support channel](https://discord.com/channels/874974449403826197/874974569373528104).
 
 ### I see you are using USSEP from the Nexus, but I do not see the Skyrim VR - USSEP Compatibility Patch
 
 USSEP thing is baked into cleaned master mod.
-
-### Did you address the Realm of Lorkham Unbound quest issue? I did not see Realm of Lorkhan - Unbound Quest Fix
-
-Yes, unbound is merged into the list.
-
-### I see some patches that are disabled, or I miss a patch entirely that should be there
-
-All patches that are in the list, even when disabled, are merged into the conflict resolution patch. Very likely there is everything you need, but if you think a really important patch is entirely missing, tell us.
 
 ### The LOOT tool missing
 
@@ -313,7 +311,7 @@ The [Discord bot](https://discord.com/channels/874974449403826197/91660584426157
 
 ## Updating FUS
 
-If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update please check the changelog before doing anything. Always backup your saves or start a new game after updating. Some updates are savefile-friendly, some are not, this is usually stated in the update. As a general rule, updates with the third number changing (e.g. from 4.1.18 to 4.1.19) are savefile-friendly, any other updates are not.
 
 **Wabbajack will reset your VRIK settings when updating!** You can save them by backing up the three ini files in the VRIK/SKSE/Plugins folder and putting them back in after you updated.
 
