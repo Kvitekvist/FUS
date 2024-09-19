@@ -162,7 +162,7 @@ You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
 ### First Boot
-On your first boot, dont change any mods. Do NOT enable any additional Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first. Community Shaders will compile, which takes a while. If you change Community Shader features later, it will recompile. Best in that case to clear overwrite, by going to the bottom of MO2 and right licking on `Overwrite` and selecting `Clear Overwrite`.
+On your first boot, dont change any mods. Do NOT enable any additional Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first. Community Shaders will compile, which takes a while. If you change Community Shader features later, it will recompile. Best in that case is to clear overwrite, by going to the bottom of MO2 and right clicking on `Overwrite` and selecting `Clear Overwrite`.
 
 Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. You can try enabling and disabling TAA in the periphery by toggling the option in within the upscaler menu by pressing the `END` key on your keyboard. You will see this menu on the PC monitor.
 
