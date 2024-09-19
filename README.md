@@ -1,11 +1,12 @@
 # FUS - Fundamentals, Updates, and Stuff
 
-FUS is a fundamental and modular modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 4 profiles:
+FUS is a fundamental and modular modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 5 profiles:
 
 - FUS (Basic): Including the barebones for a good VR experience.
 - FUS RO (Basic + Visuals): Also includes some visual improvements.
+- FUS DAH (Basic + Gameplay): Includes basics and gameplay changes, but no visual changes.
 - FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones. User are expected to deselect mods from all optional categories, as we ship it with most optional mods enabled. This does not mean that we recommened using all overhauls.
-- Cangar: Basically FUS RO DAH with my personal choice of optional mods.
+- CANGAR: Basically FUS RO DAH with my personal choice of optional mods.
 
 Here is a [video guide](https://youtu.be/cu3i8s-H5qw) on how to install the list. 
 
@@ -15,35 +16,17 @@ NOTE: We only provide support on unmodified versions of FUS.
 
 [Join the discord](https://discord.gg/Kv6MdXY3fB) for support, chat, and sharing experiences and screenshots!
 
-Channel uses:
-
-general : A General lobby to hang out and have fun with FUS.
-
-support : A channel for support questions for unmodified FUS modlists of the most current version.
-
-unsupported-mod-discussion : If you have made any changes at all to the modlist and have questions to adding, removing or changing things.
-
-suggestions : A channel to suggest new mods or improvements. Keep in mind, the core of FUS is to be minimalistic. Not a modlist to cover everything awesome that nexus has to offer.
-
-bot-faq : Find useful bot commands to help with issues
-
-general-faq : General FAQ's
-
-quick-troubleshooting : Find some answers on common issues
-
 --------
 
-Unlike most wabbajack modlist, FUS is very modular. It is meant to be used by people who either want to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back (in that case use the FUS RO - blue visuals - or the FUS RO DAH - yellow gameplay, if you like fun - profiles), or by people who want to start their own totally personal modlist but don't want to bother with the basic stuff (in that case use the FUS - green basics, the actual essentials for Skyrim VR).
+Unlike most wabbajack modlist, FUS is very modular. It is meant to be used by people who either want to get Skyrim VR running with a generally vanilla-lore-friendly overhaul and never come back, or by people who want to start their own totally personal modlist but don't want to bother with the basic stuff (in that case use the FUS - green basics, the actual essentials for Skyrim VR).
 
-So in this list, only the FUS profile is meant to be absolutely essential. The rest is what we personally find to be a nice minimalistic setup that users can either just use or butcher at their taste and level of competence ;)
+So in this list, only the FUS profile is meant to be absolutely essential. The rest is what we personally find to be a nice vanilla-friendly setup that users can either just use or butcher at their taste and level of competence ;)
 
-The list is made to be extremely performant while retaining a maximal level of visual quality, and we provide different setups of quality vs performance within the list. Cangar can play it on a laptop with a mobile 1070 with a Valve Index, but you can also make use of a 3080 in a desktop PC, depending on the setup you choose.
-
-I would like to point out the fourth profile: "Cangar", which is going to be the exact profile I use for my own playthrough. When I play, I will make it a new Youtube video series on my channel and all my save game files will be made available here on Git. This means you can decide to either just watch me play, or you can literally replay parts yourselves with the exact same setup!
+The list is made to be extremely performant while retaining a good level of visual quality, and we provide different setups of quality vs performance within the list. Cangar can play it on a laptop with a mobile 1070 with a Valve Index, but you can also make full use of a desktop RTX 4090, depending on your setup and VR headset.
 
 The entire modlist can be found at the bottom of this page. Mod authors appreciate an endorsement! :)
 
-You need about 45gb free disk space.
+You need about 45gb download volume and 115gb free disk space.
 
 FUS does not support pirated versions of the game. Do not attempt to install it if you did not buy the game legally, it will not work. Do not come asking for help.
 
@@ -79,7 +62,9 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
 
 ## Installation
 
-This may look like a good amount of work but the process is fast and you just need to follow the steps :) Do not despair! Don't run away! If you feel like anything is unclear please [join the discord](https://discord.gg/Kv6MdXY3fB) and let us know! We will do our best to clear things up and add the clarification for the next user.
+FUS requires a **completely clean** Skyrim VR folder! 
+
+The installation may look like a good amount of work but the process is fast and you just need to follow the steps :) Do not despair! Don't run away! If you feel like anything is unclear please [join the discord](https://discord.gg/Kv6MdXY3fB) and let us know! We will do our best to clear things up and add the clarification for the next user.
 
 ### First time installation, PC preparation
 
@@ -105,8 +90,9 @@ FUS is a fundamental modlist for Skyrim VR that offers 4 profiles.
 
 - FUS (Basic): Including the barebones for a good VR experience.
 - FUS RO (Basic + Visuals): Also includes some appearance improvements.
+- FUS DAH (Basic + Gameplay): Includes basics and gameplay changes, but no visual changes.
 - FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
-- Cangar: FUS RO DAH with my choice of optionals (almost all). Choose this if you want to follow and replay my Youtube series.
+- CANGAR: FUS RO DAH with my choice of optionals (almost all). Choose this if you want to follow and replay my Youtube series.
 
 Of course you can also select your own choices from the profiles. If you want to use optional mods, it is better to use the FUS RO DAH or Cangar profiles and *deselect* mods than to use the lower profiles and selecting optional mods. This is to preserve the correct load order. If you add optional mods you should make sure that the load order to the right in MO2 has DynDOLOD and Synthesis as the last plugins.
 
@@ -114,7 +100,6 @@ The green parts are really the mods that we think no Skyrim VR mod list should b
 The blue parts contain a selection of audio/visual/architecture/armory/NPC overhauls that we think is fine to work as standalone. This is personal preference and just a selection we made and like.
 The yellow parts are our choice of gameplay improvements/changes. These deviate from vanilla and mostly make the game more interesting and challenging, or just overall improve the feeling. Obviously, these are personal preference, too. You are expected to go over all the optional mods and deslect all the mods that dont fit your style. **ALL MODS IN YELLOW CATEGORY ARE OPTIONAL.** For instance, if the game is too hard, then this is because you opted to use the enemy overhaul mods in category 3.2.
 The optional LOD files contain DynDoLOD generated files that enhance the visuals in the distance. These cost performance but make a big difference!
-The red late load parts contain patches that we created for this mod list. Use them if you use the respective mods above.
 
 Mod authors appreciate an endorsement! :)
 
@@ -126,7 +111,7 @@ Since FUS is modular by nature, we do NOT expect you to activate all mods. After
 
 #### Boot files
 
-Near the top of MO2 in FUS, there is a dark green mod category. This contain several different options. This is where you activate opencomposite, Upscaler, ReShade and maybe other mods if you want.
+Near the top of MO2 in FUS, you activate opencomposite, Upscaler, ReShade and maybe other mods if you want.
 
 #### Choose controller bindings
 
@@ -156,7 +141,7 @@ One additional thing you might want to change is `Auto Sneak and Jump`, this mod
 
 Another mod you might or might not like is `Mute the Music` which, surprise, makes the game not play most music. Some tavern songs are still played but in general most music is gone. This is enabled only in the `Cangar` profile for immersion reasons. Safe to enable/disable anytime.
 
-Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to show magic out of the palm, not like the default pistol shooting style, but if you prefer the latter, you can open the mod files (right click, show in explorer), and set the `MagicRotationYaw` angle to 0.
+Lastly, `Magic Improvements for Skyrim VR` has an option to change the magic cast angle. We have set it to show magic out of the palm, not like the default pistol shooting style, but if you prefer the latter, you can use the other version below it.
 
 We also have plently of additional optional gameplay mods that we discuss in the [noteworthy mods](#noteworthy-gameplay-mods) section.
 
@@ -166,18 +151,19 @@ If you want to use optional mods, it is better to use the FUS RO DAH or Cangar p
 
 **Note:** Always remember to turn on your controllers before starting SkyrimVR, or you will encounter game-breaking bugs! This is important no matter which VR headset you use.
 
-Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. If you already had MO2 installed, you cannot use your own MO2 version, you have to use the one provided by FUS. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS (SKSE)` by selecting it in the dropdown box and then hitting the `Run` button.
+Head over to the installation folder and locate the executable named `ModOrganizer.exe` and launch it. If you already had MO2 installed, you cannot use your own MO2 version, you have to use the one provided by FUS. Once its launched there will be a dropdown box on the top right and a big `Run` button next to it. Ensure it is set to `Play FUS` by selecting it in the dropdown box and then hitting the `Run` button.
 
 **This has to be done each time you want to play Skyrim VR!**
 
 You cannot start Skyrim VR from Steam, always use MO2. Best make a shortcut and put it on the desktop. There's a button for this right next to the `Run` button :)
 
-**IMPORTANT:** Skyrim VR is very particular about controllers. Make absolutely sure Steam VR and your controllers are switched on *before* starting the game!
+**IMPORTANT:** Skyrim VR is very particular about controllers. Make absolutely sure Steam VR (if you use it) and your controllers are switched on *before* starting the game!
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/play%20fus.png?raw=true)
 
 ### First Boot
-On your first boot, dont change any mods. Do NOT enable any Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first.
+On your first boot, dont change any mods. Do NOT enable any additional Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first. Community Shaders will compile, which takes a while. If you change Community Shader features later, it will recompile. Best in that case to clear overwrite, by going to the bottom of MO2 and right licking on `Overwrite` and selecting `Clear Overwrite`.
+
 Notes: DLAA and DLSS requires an RTX graphics cards. FSR works with any graphics card, but can cause a black box in the screen. You can try enabling and disabling TAA in the periphery by toggling the option in within the upscaler menu by pressing the `END` key on your keyboard. You will see this menu on the PC monitor.
 
 ### First steps in the game
