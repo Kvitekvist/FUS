@@ -109,6 +109,8 @@ Surprise: **DO NOT TOUCH** the files that are marked as such.
 
 Since FUS is modular by nature, we do NOT expect you to activate all mods. After choosing the profile you like, it is time to start choosing mods.
 
+IMPORTANT! Only do this setup change after you have started FUS first, unchanged. On your first boot, dont change any mods. Do NOT enable any additional Community Shaders, ReShade or upscaler mod. Do not enable opencomposite. These are optional, but make sure the game boots without them first. This is to make sure that the game works as a whole, completely as we deliver it. If it works, go ahead. If it does not work, please ask for support on the discord.
+
 #### Boot files
 
 Near the top of MO2 in FUS, you activate opencomposite, Upscaler, ReShade and maybe other mods if you want.
@@ -122,18 +124,6 @@ Please have a look at our [detailed controller binding guide](https://github.com
 No matter the controller binding you use inside Skyrim, if you use the `Valve Index controllers` you need to enable the VRIK SteamVR bindings **in addition**: Navigate to your SteamVR Settings -> Devices -> Controller Settings.  Click on Manage Controller Bindings.  Select The Elder Scrolls V: SkyrimVR from the drop down list.  Click "Edit this Binding" (you may need to click the "Custom" button to make it appear).  A new window will pop up.  You may need to click Back in the top-left.  Make sure it shows your Index Controllers as the Current Controller - Change it if necessary.  A list of Community bindings should become visible.  Find and select the "VRIK Index Controller Bindings V2.1.0" in the list.  Be careful not to select the older V1.0.0 or V2.0.0 bindings by mistake, as this will not work.  Selecting the VRIK Index Controller Bindings V2.1.0 here will complete the process. This can also be done when the game was already started from inside the SteamVR settings menu in VR.
 
 **Note:** Always remember to turn on your controllers before starting SkyrimVR, or you will encounter game-breaking bugs! This is important no matter which VR headset you use.
-
-#### VR FPS Stabilizer
-
-AutoConfig feature is NOT compatible with OpenComposite, so FUS has disabled this part of the mod to have a version that works for all users with or without opencomposite.
-
-This mod has a separate category. It smooths your framerate by automatically lowering some LOD distance settings when your GPU can't keep the framerate.  It doesn't perform miracles but it's pretty handy when you're sometimes fine, and sometimes fall into reprojection.
-
-#### Insects Begone
-
-We want to make this list as inclusive as we can so we ship an option to remove insects (spiders and chaurus). You can find three optional mods at the end of the blue section. *Only choose one of them!* FYI: We decided not to remove the webs because this breaks some NPCs.
-
-**NOTE:** *If you want to use these you absolutely have to rerun Synthesis and make sure the Synthesis.esp is at the bottom of the plugins section at the right hand side of MO2!* Otherwise the water will be broken, or you don't fully remove all insects and their stuff. Check [this guide](https://github.com/Kvitekvist/FUS/wiki/Settings-for-tools-(LODs-and-Synthesis)) at the bottom for more info.
 
 #### Other
 
