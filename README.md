@@ -39,8 +39,6 @@ FUS does not support pirated versions of the game. Do not attempt to install it 
   - [Post-installation](#post-installation)
   - [Select the profile of your choice](#select-the-profile-of-your-choice)
     - [Choose controller bindings](#choose-controller-bindings)
-    - [VR FPS Stabilizer](#vr-fps-stabilizer)
-    - [Insects Begone](#insects-begone)
     - [Other](#other)
 - [How to start up FUS](#how-to-start-up-fus)
   - [First Boot](#first-boot)
