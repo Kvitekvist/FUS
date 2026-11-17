@@ -1,0 +1,49 @@
+[
+  {
+    "title": "FUS",
+    "description": "FUS is a fundamental and modular vanilla\u002B setup for Skyrim VR that offers 4 profiles. Essentials only (FUS), Essentials \u002B Apperance (FUS ROH), Essentials \u002B Apperance \u002B Gameplay, and Cangar, including optional mods.",
+    "author": "Cangar \u0026 Kvitekvist",
+    "maintainers": [
+      "kvitekvist",
+      "github/Kvitekvist",
+      "github/MariusKlug",
+      "cangar"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "Official",
+      "Top performance",
+      "Modular",
+      "Official",
+      "VR"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
+      "readme": "https://raw.githubusercontent.com/Kvitekvist/FUS/main/README.md",
+      "download": "https://authored-files.wabbajack.org/FUS.wabbajack_3f1323af-66cf-4240-bb88-76a30b4c9d7c",
+      "machineURL": "fus",
+      "discordURL": "https://discord.gg/eC9KvaBxHv",
+      "websiteURL": "",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "tPjP6Btw95k=",
+      "Size": 711429389,
+      "NumberOfArchives": 674,
+      "SizeOfArchives": 53632621485,
+      "NumberOfInstalledFiles": 83551,
+      "SizeOfInstalledFiles": 76210552127,
+      "TotalSize": 129843173612
+    },
+    "version": "5.0.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-12-25T10:02:02.2399893Z",
+    "repositoryName": ""
+  }
+]
